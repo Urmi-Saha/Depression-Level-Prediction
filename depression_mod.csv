@@ -1,0 +1,546 @@
+Timestamp,What is your gender?,How old are you?,What is your occupation?,Do you have sleeping disturbances at night?,Addicted to social media?,Addicted to drug?,What's your relationship status?,Pass most of the time laying on bed without any body movements?,Your Family  bonding?,Your Economical status?,Nature of you?,Social relationship?,Do you feel yourself unworthy?,Do you have past traumas?,Do you cry overnight?,Do you feel lonely?,Your Health?,Can you eat when you are sad?,Do you feel guilt in your life?,Do you feel concentration losing or remembering problem?,Do you feel yourself a burden?,Do you have a lot of pressure on your working sector?,Do you have self-control?,When do you often feel bad ? ,Is your subconscious mind dominating you?,Are you depressed?,Do you ever attempt suicide? ,Satisfied Result in your working sector?,Depression_type
+2019-9-20 3:28,Female,23,Student,yes,Yes,no,in a relationship,yes,as usual,middle class,Introvert,weak,always,Maybe,sometimes,sometimes,gaining weight,yes,Yes,Yes,Yes,normal,No,mid night,Maybe,No,No,No,Mild
+2019-9-20 3:32,Female,23,Student,yes,Yes,no,in a relationship,yes,as usual,poor,Introvert,medium,No,No,Yes,sometimes,no change,yes,Yes,No,No,No,Yes,mid night,Maybe,Yes,No,No,Moderate
+2019-9-20 3:34,Male,22,Student,yes,Yes,no,in a relationship,no,Weak,middle class,Introvert,medium,Yes,Yes,sometimes,sometimes,no change,yes,Yes,Yes,Yes,No,Maybe,mid night,Yes,Yes,No,No,Moderate
+2019-9-20 3:36,Female,24,Student,yes,Maybe,no,Single,no,Strong,well-off,Introvert,medium,sometimes,Yes,No,sometimes,gaining weight,yes,No,Yes,No,normal,Yes,afternoon,Maybe,No,No,No,Mild
+2019-9-20 3:36,Female,22,Student,yes,Yes,no,Single,no,as usual,middle class,Extrovert,medium,Yes,Yes,No,sometimes,gaining weight,yes,Yes,Yes,No,normal,No,afternoon,Yes,Yes,No,Yes,Mild
+2019-9-20 3:36,Male,21,Student,no,No,no,Single,no,as usual,middle class,Introvert,medium,No,No,No,sometimes,no change,yes,Yes,No,Yes,Yes,Yes,mid night,Maybe,No,No,normal,Mild
+2019-9-20 3:38,Male,22,Student,yes,Maybe,no,in a relationship,yes,Strong,middle class,Extrovert,medium,sometimes,Maybe,sometimes,sometimes,no change,no,Yes,Yes,No,Yes,No,mid night,Maybe,No,No,normal,Mild
+2019-9-20 3:38,Male,22,Student,yes,Yes,no,in a relationship,yes,Strong,middle class,Introvert,medium,No,No,No,sometimes,no change,yes,Yes,Yes,No,Yes,Maybe,mid night,No,Yes,No,No,Moderate
+2019-9-20 3:39,Male,23,Student,yes,Maybe,yes,in a relationship,yes,Weak,middle class,Introvert,medium,Yes,Yes,No,sometimes,gaining weight,yes,Yes,Yes,Maybe,Yes,No,mid night,Maybe,Yes,Yes,No,Severe
+2019-9-20 3:40,Female,24,Student,sometimes,Maybe,no,Single,no,Strong,middle class,Introvert,medium,No,Yes,No,sometimes,gaining weight,yes,No,Yes,No,No,Yes,afternoon,No,No,No,normal,Negative
+2019-9-20 3:41,Female,23,Student,yes,No,yes,in a relationship,yes,Strong,well-off,Introvert,medium,sometimes,No,No,sometimes,gaining weight,yes,Yes,Yes,Yes,normal,Maybe,afternoon,No,Yes,No,No,Moderate
+2019-9-20 3:41,Male,23,Student,yes,Maybe,no,in a relationship,no,Strong,middle class,Introvert,weak,sometimes,No,No,sometimes,gaining weight,yes,No,Yes,No,Yes,Yes,afternoon,Maybe,Yes,No,No,Moderate
+2019-9-20 3:42,Female,22,Student,sometimes,No,no,in a relationship,yes,Strong,well-off,Extrovert,medium,sometimes,No,sometimes,sometimes,no change,no,No,No,Maybe,No,Maybe,mid night,Maybe,No,No,No,Negative
+2019-9-20 3:45,Female,21,Student,sometimes,Maybe,no,Single,no,as usual,middle class,Introvert,medium,sometimes,No,sometimes,sometimes,losing weight,yes,Maybe,Yes,Maybe,Yes,Maybe,mid night,Maybe,Yes,No,No,Moderate
+2019-9-20 3:46,Female,22,Student,no,Maybe,no,in a relationship,no,Strong,middle class,Introvert,medium,sometimes,Maybe,sometimes,sometimes,gaining weight,no,Yes,No,No,Yes,No,mid night,Maybe,Yes,No,No,Moderate
+2019-9-20 3:46,Female,25,Unemployee,yes,Yes,no,in a relationship,no,as usual,middle class,Extrovert,medium,sometimes,No,sometimes,no,no change,yes,Yes,Yes,No,normal,Maybe,Morning,No,No,No,normal,Negative
+2019-9-20 3:47,Female,23,Student,sometimes,No,no,in a relationship,no,Strong,middle class,Introvert,weak,sometimes,No,No,sometimes,no change,yes,No,Yes,Yes,normal,Yes,mid night,No,No,No,No,Negative
+2019-9-20 3:50,Female,22,Student,sometimes,Yes,no,Single,yes,Strong,middle class,Introvert,medium,Yes,No,sometimes,sometimes,gaining weight,no,Yes,Yes,Yes,Yes,Yes,mid night,Yes,Yes,No,No,Moderate
+2019-9-20 3:51,Male,22,Student,yes,Yes,no,Single,no,Strong,middle class,Introvert,medium,always,Yes,Yes,always,gaining weight,no,Yes,Yes,Yes,Yes,No,mid night,Yes,Yes,No,No,Moderate
+2019-9-20 3:55,Male,23,Student,yes,Maybe,no,Single,yes,Strong,middle class,Introvert,weak,No,Yes,sometimes,always,no change,yes,Yes,Yes,No,Yes,Yes,mid night,Yes,Yes,No,Yes,Moderate
+2019-9-20 4:04,Male,24,Student,yes,Maybe,yes,Single,yes,as usual,middle class,Introvert,weak,sometimes,No,No,sometimes,losing weight,no,Yes,Yes,Maybe,Yes,Yes,mid night,Yes,Yes,No,No,Moderate
+2019-9-20 4:11,Male,25,Employee,yes,Maybe,no,Single,yes,Weak,poor,Introvert,medium,Yes,No,sometimes,sometimes,gaining weight,yes,Yes,No,Maybe,No,No,mid night,No,Yes,No,No,Mild
+2019-9-20 4:14,Female,23,Student,yes,No,no,in a relationship,yes,Strong,middle class,Introvert,weak,sometimes,Yes,sometimes,always,no change,yes,Maybe,Yes,Maybe,Yes,No,mid night,Yes,Yes,Yes,No,Severe
+2019-9-20 4:17,Male,24,Student,yes,Yes,no,in a relationship,no,Strong,middle class,Extrovert,Strong,sometimes,Yes,No,no,no change,yes,No,No,No,normal,Maybe,afternoon,No,No,No,Yes,Negative
+2019-9-20 4:37,Female,22,Student,no,Maybe,no,Single,yes,Strong,middle class,Extrovert,medium,sometimes,No,No,sometimes,gaining weight,yes,Maybe,Yes,No,normal,Yes,mid night,Maybe,No,No,No,Negative
+2019-9-20 4:44,Female,23,Student,yes,No,no,in a relationship,yes,Strong,middle class,Extrovert,medium,sometimes,Yes,Yes,sometimes,losing weight,no,Maybe,Yes,No,Yes,No,mid night,Yes,Yes,Yes,Yes,Severe
+2019-9-20 4:53,Female,23,Student,no,No,no,Single,no,as usual,middle class,Extrovert,medium,No,Yes,sometimes,no,losing weight,no,Yes,Yes,No,Yes,Maybe,Morning,Maybe,Yes,No,No,Mild
+2019-9-20 4:58,Male,24,Student,no,Yes,no,Single,yes,as usual,middle class,Introvert,Strong,No,No,No,sometimes,no change,no,Maybe,No,No,No,Yes,,No,No,No,Yes,Negative
+2019-9-20 5:15,Female,22,Student,sometimes,Yes,no,in a relationship,no,Strong,well-off,Extrovert,medium,Yes,Yes,sometimes,sometimes,no change,no,Yes,Yes,No,No,Maybe,afternoon,Maybe,Yes,No,No,Mild
+2019-9-20 5:48,Female,22,Student,yes,No,no,in a relationship,yes,as usual,well-off,Introvert,weak,always,Yes,Every night,always,no change,no,Yes,Yes,Maybe,Yes,No,mid night,Yes,Yes,Yes,No,Moderate
+2019-9-20 6:06,Male,21,Student,yes,Yes,no,Single,no,Strong,middle class,Extrovert,medium,No,Maybe,sometimes,sometimes,gaining weight,yes,Yes,Yes,No,Yes,Yes,mid night,No,Yes,No,normal,Moderate
+2019-9-20 6:15,Female,27,Unemployee,sometimes,Maybe,no,in a relationship,no,as usual,middle class,Introvert,medium,sometimes,Yes,Yes,sometimes,no change,yes,Yes,Yes,Maybe,No,No,afternoon,Maybe,No,No,No,Mild
+2019-9-20 7:13,Male,22,Student,yes,Maybe,yes,Single,yes,Strong,middle class,Introvert,medium,sometimes,Yes,No,sometimes,no change,yes,Yes,Yes,Maybe,Yes,No,mid night,Yes,Yes,Yes,No,Moderate
+2019-9-20 7:18,Female,23,Student,sometimes,No,no,in a relationship,no,Strong,middle class,Extrovert,Strong,Yes,No,Yes,no,losing weight,yes,No,No,Yes,normal,Yes,mid night,No,Yes,No,No,Mild
+2019-9-20 7:53,Male,23,Employee,yes,No,no,Single,no,as usual,well-off,Extrovert,medium,No,Yes,sometimes,sometimes,no change,no,Yes,Yes,No,Yes,Yes,mid night,No,No,No,No,Mild
+2019-9-20 8:01,Male,28,Employee,no,Yes,no,married,yes,as usual,middle class,Introvert,medium,sometimes,Yes,No,sometimes,no change,yes,Yes,Yes,No,Yes,Yes,afternoon,Yes,Yes,No,No,Mild
+2019-9-20 8:02,Male,24,Student,no,Maybe,no,married,no,Strong,middle class,Extrovert,medium,Yes,No,sometimes,sometimes,no change,yes,Yes,Yes,Yes,Yes,Maybe,afternoon,Maybe,Yes,No,normal,Mild
+2019-9-20 8:09,Male,18,Student,no,Maybe,no,Single,yes,as usual,middle class,Introvert,weak,always,Yes,sometimes,always,no change,no,Yes,Yes,Yes,Yes,Yes,mid night,Yes,Yes,No,Yes,Moderate
+2019-9-20 8:11,Male,29,Employee,no,Yes,no,married,no,Strong,middle class,Introvert,weak,sometimes,Yes,sometimes,no,gaining weight,yes,Maybe,Yes,No,normal,Maybe,Morning,Yes,No,No,normal,Mild
+2019-9-20 8:22,Male,30,Employee,sometimes,Maybe,no,Single,yes,as usual,middle class,Introvert,medium,sometimes,Maybe,No,sometimes,gaining weight,yes,Maybe,No,No,normal,No,mid night,Maybe,Yes,No,No,Mild
+2019-9-20 8:48,Female,32,Employee,no,No,no,in a relationship,no,Strong,well-off,Extrovert,Strong,No,No,No,sometimes,gaining weight,no,No,No,No,No,Yes,afternoon,No,No,No,Yes,Negative
+2019-9-20 8:54,Female,23,Student,sometimes,Yes,no,in a relationship,yes,Strong,middle class,Introvert,weak,sometimes,Maybe,sometimes,sometimes,no change,no,Maybe,Yes,Maybe,Yes,Yes,mid night,Yes,No,No,normal,Mild
+2019-9-20 8:56,Female,23,Student,sometimes,No,no,in a relationship,yes,as usual,well-off,Introvert,weak,Yes,No,Yes,sometimes,no change,no,Yes,Yes,Maybe,Yes,Maybe,mid night,Maybe,Yes,No,No,Mild
+2019-9-20 9:02,Female,22,Student,sometimes,No,no,in a complicated relationship,no,as usual,middle class,Introvert,medium,sometimes,Yes,sometimes,sometimes,gaining weight,yes,No,Yes,No,Yes,Maybe,afternoon,Maybe,Yes,Yes,Yes,Severe
+2019-9-20 9:15,Male,25,Student,no,Maybe,no,in a relationship,no,Strong,middle class,Introvert,medium,No,No,sometimes,sometimes,gaining weight,no,Yes,Yes,No,normal,Maybe,Morning,No,No,No,normal,Negative
+2019-9-20 9:28,Male,24,Student,no,No,no,Single,yes,Strong,middle class,Introvert,weak,No,No,sometimes,always,no change,yes,No,Yes,No,No,Yes,mid night,Maybe,No,No,Yes,Negative
+2019-9-20 9:30,Female,22,Student,sometimes,No,no,Single,yes,Strong,middle class,Extrovert,medium,sometimes,Maybe,sometimes,sometimes,losing weight,no,Yes,Yes,Maybe,Yes,Maybe,mid night,Yes,No,No,No,Mild
+2019-9-20 9:31,Male,23,Student,no,No,no,in a relationship,no,as usual,middle class,Introvert,weak,sometimes,No,No,sometimes,no change,no,Maybe,Yes,No,normal,Maybe,mid night,Maybe,No,No,normal,Negative
+2019-9-20 9:41,Female,22,Student,sometimes,No,no,in a relationship,no,Strong,middle class,Extrovert,weak,sometimes,Yes,Yes,sometimes,gaining weight,no,Yes,Yes,Maybe,Yes,No,afternoon,Yes,No,Yes,No,Moderate
+2019-9-20 9:53,Female,21,Employee,no,Yes,no,in a relationship,no,Strong,middle class,Extrovert,medium,sometimes,No,No,sometimes,gaining weight,yes,Yes,Yes,No,Yes,Yes,afternoon,Yes,Yes,No,No,Mild
+2019-9-20 9:56,Female,20,Student,no,No,no,Single,no,Strong,well-off,Extrovert,Strong,sometimes,Yes,No,sometimes,gaining weight,yes,Yes,No,No,Yes,Yes,mid night,No,No,No,No,Mild
+2019-9-20 10:05,Male,20,Student,no,No,no,Single,yes,as usual,middle class,Introvert,medium,No,No,No,always,no change,no,Maybe,Yes,No,Yes,Maybe,mid night,Maybe,No,No,normal,Negative
+2019-9-20 10:06,Female,29,Employee,no,Maybe,no,married,no,Strong,middle class,Introvert,medium,No,No,No,sometimes,gaining weight,no,No,Yes,No,Yes,Maybe,Morning,Maybe,No,No,No,Negative
+2019-9-20 10:09,Male,21,Student,no,No,no,Single,no,Strong,middle class,Introvert,medium,No,Yes,No,sometimes,no change,no,No,No,No,normal,Yes,mid night,No,No,No,No,Negative
+2019-9-20 10:14,Female,22,Student,no,Yes,no,in a relationship,yes,Strong,middle class,Extrovert,Strong,No,No,No,sometimes,no change,yes,No,No,No,Yes,Yes,afternoon,No,No,No,Yes,Seasonal
+2019-9-20 10:23,Male,24,Student,no,No,no,in a relationship,no,Strong,middle class,Introvert,medium,sometimes,No,No,no,no change,no,No,Yes,No,Yes,Maybe,afternoon,No,No,No,No,Mild
+2019-9-20 10:25,Female,22,Student,no,Yes,no,in a relationship,no,Strong,middle class,Extrovert,Strong,sometimes,Yes,No,sometimes,gaining weight,yes,No,Yes,No,normal,Yes,mid night,No,No,No,No,Mild
+2019-9-20 10:25,Male,32,Employee,no,Yes,no,in a relationship,no,Strong,middle class,Introvert,medium,sometimes,Maybe,No,sometimes,gaining weight,yes,Yes,Yes,No,normal,Maybe,mid night,Maybe,No,No,normal,Mild
+2019-9-20 10:28,Female,22,Student,no,No,no,in a relationship,no,Strong,middle class,Introvert,weak,sometimes,No,sometimes,sometimes,no change,yes,Maybe,Yes,No,normal,Yes,afternoon,No,No,No,normal,Mild
+2019-9-20 10:35,Male,21,Student,yes,No,yes,in a relationship,yes,as usual,well-off,Introvert,medium,No,Maybe,No,no,gaining weight,yes,No,Yes,No,Yes,Maybe,Morning,No,No,No,No,Negative
+2019-9-20 10:49,Female,21,Student,no,No,no,in a complicated relationship,yes,Strong,middle class,Extrovert,medium,Yes,Yes,Yes,no,gaining weight,no,Yes,Yes,Yes,Yes,No,mid night,Yes,Yes,No,No,Negative
+2019-9-20 10:55,Male,32,Employee,no,Yes,no,married,no,Strong,middle class,Extrovert,Strong,No,No,No,no,no change,yes,No,Yes,No,normal,Yes,afternoon,No,No,No,normal,Negative
+2019-9-20 10:57,Male,20,Student,sometimes,Yes,no,Single,yes,Strong,middle class,Extrovert,medium,No,No,No,sometimes,no change,yes,No,Yes,No,normal,Maybe,mid night,Maybe,No,No,No,Negative
+2019-9-20 11:00,Male,18,Student,no,No,no,Single,no,Strong,middle class,Introvert,medium,sometimes,No,No,no,losing weight,yes,Yes,Yes,No,Yes,Yes,afternoon,No,No,Yes,normal,Mild
+2019-9-20 11:02,Female,21,Student,no,Maybe,no,Single,yes,Strong,middle class,Introvert,medium,sometimes,No,No,sometimes,no change,yes,Yes,Yes,No,normal,Yes,afternoon,Maybe,No,No,normal,Mild
+2019-9-20 11:07,Male,19,Student,no,Yes,no,in a relationship,yes,Strong,well-off,Introvert,weak,sometimes,No,No,no,gaining weight,yes,Maybe,Yes,No,No,Yes,mid night,No,No,No,normal,Mild
+2019-9-20 11:15,Female,21,Student,no,Yes,no,in a relationship,yes,as usual,middle class,Introvert,medium,sometimes,No,sometimes,sometimes,no change,no,Yes,Yes,Maybe,normal,No,mid night,Yes,No,No,No,Negative
+2019-9-20 11:24,Female,19,Student,sometimes,Maybe,no,in a relationship,yes,Strong,middle class,Introvert,medium,sometimes,Maybe,sometimes,sometimes,no change,no,Maybe,Yes,Maybe,Yes,Maybe,mid night,No,No,No,No,Seasonal
+2019-9-20 11:27,Male,20,Student,no,No,no,in a relationship,no,as usual,middle class,Introvert,Strong,No,Yes,No,no,gaining weight,yes,Yes,Yes,No,Yes,No,mid night,Yes,No,No,Yes,Mild
+2019-9-20 11:34,Male,20,Student,yes,Maybe,no,Single,yes,as usual,middle class,Introvert,medium,sometimes,Yes,sometimes,always,losing weight,no,No,Yes,Maybe,Yes,Maybe,mid night,Maybe,Yes,No,normal,Seasonal
+2019-9-20 11:46,Male,21,Student,no,Yes,no,Single,yes,Strong,middle class,Introvert,medium,sometimes,No,No,no,no change,yes,Yes,No,No,No,Maybe,mid night,No,No,No,normal,Negative
+2019-9-20 11:51,Male,22,Student,no,Maybe,no,in a relationship,yes,as usual,middle class,Extrovert,medium,sometimes,No,No,no,gaining weight,yes,No,Yes,No,normal,Yes,afternoon,Yes,No,No,No,Negative
+2019-9-20 11:51,Female,19,Student,no,Yes,no,Single,no,Strong,middle class,Extrovert,Strong,No,Yes,Yes,sometimes,no change,no,Yes,Yes,No,No,Yes,mid night,No,Yes,No,No,Mild
+2019-9-20 11:52,Female,21,Student,yes,No,no,Single,no,as usual,well-off,Extrovert,medium,Yes,Yes,Yes,sometimes,no change,yes,Yes,Yes,Yes,normal,No,Morning,Yes,Yes,Yes,No,Severe
+2019-9-20 11:53,Male,22,Student,sometimes,No,no,Single,yes,as usual,poor,Introvert,medium,No,No,No,always,no change,yes,No,No,No,Yes,Yes,mid night,No,No,No,Yes,Negative
+2019-9-20 12:01,Female,23,Student,yes,No,no,married,yes,Weak,poor,Introvert,weak,Yes,Yes,sometimes,sometimes,gaining weight,yes,Yes,Yes,Yes,Yes,Yes,mid night,Maybe,Yes,No,No,Mild
+2019-9-20 12:02,Male,24,Student,yes,Maybe,yes,Single,yes,as usual,middle class,Introvert,medium,Yes,Yes,sometimes,sometimes,losing weight,no,Yes,Yes,Yes,Yes,No,mid night,Yes,Yes,No,normal,Moderate
+2019-9-20 12:08,Female,23,Student,yes,Yes,no,Single,no,as usual,middle class,Extrovert,medium,sometimes,Yes,sometimes,always,gaining weight,no,Yes,Yes,Maybe,Yes,Maybe,mid night,Maybe,No,No,No,Mild
+2019-9-20 12:09,Female,22,Student,no,Yes,no,in a relationship,yes,Strong,middle class,Extrovert,Strong,sometimes,Yes,sometimes,sometimes,no change,yes,Yes,No,Maybe,normal,No,mid night,Yes,Yes,No,No,Mild
+2019-9-20 12:10,Female,23,Student,sometimes,Maybe,no,Single,yes,as usual,middle class,Introvert,medium,sometimes,Maybe,sometimes,sometimes,gaining weight,yes,Maybe,Yes,Maybe,Yes,No,mid night,Maybe,No,No,normal,Negative
+2019-9-20 12:10,Female,22,Student,no,No,no,in a relationship,no,Strong,middle class,Introvert,medium,sometimes,Yes,No,no,no change,no,No,Yes,No,Yes,Yes,mid night,No,No,No,normal,Mild
+2019-9-20 12:12,Female,21,Student,no,Maybe,no,in a relationship,yes,Strong,middle class,Extrovert,medium,Yes,Yes,No,always,no change,no,Yes,Yes,Yes,Yes,No,mid night,Yes,Yes,Yes,No,Moderate
+2019-9-20 12:19,Female,20,Student,sometimes,No,no,in a relationship,no,Strong,middle class,Introvert,medium,sometimes,No,No,sometimes,losing weight,no,No,Yes,No,normal,Maybe,mid night,Maybe,Yes,No,normal,Mild
+2019-9-20 12:25,Female,20,Student,no,No,no,Single,yes,Strong,well-off,Introvert,medium,No,No,No,sometimes,no change,yes,No,Yes,No,Yes,Yes,afternoon,No,No,No,No,Negative
+2019-9-20 12:27,Male,23,Student,sometimes,Maybe,no,Single,yes,as usual,middle class,Introvert,medium,Yes,Yes,Yes,sometimes,gaining weight,yes,Yes,Yes,No,No,Maybe,mid night,Maybe,Yes,No,normal,Mild
+2019-9-20 12:27,Female,22,Student,sometimes,Maybe,no,in a relationship,yes,Strong,well-off,Extrovert,medium,sometimes,No,No,sometimes,no change,no,No,Yes,Maybe,Yes,Yes,afternoon,No,No,Yes,No,Moderate
+2019-9-20 12:27,Female,21,Student,sometimes,Maybe,no,in a relationship,no,Strong,middle class,Introvert,medium,sometimes,No,sometimes,sometimes,no change,yes,Maybe,Yes,No,normal,Yes,mid night,Maybe,No,No,normal,Negative
+2019-9-20 12:29,Female,21,Student,no,Maybe,no,Single,yes,as usual,well-off,Extrovert,medium,sometimes,No,No,sometimes,losing weight,no,Maybe,Yes,No,Yes,Yes,mid night,Yes,No,No,Yes,Negative
+2019-9-20 12:30,Male,25,Student,no,Yes,no,Single,no,Strong,middle class,Introvert,medium,No,Yes,Yes,no,no change,yes,No,Yes,No,normal,Maybe,mid night,No,No,No,normal,Mild
+2019-9-20 12:30,Male,24,Student,yes,No,yes,married,yes,Weak,poor,Extrovert,Strong,No,No,No,no,gaining weight,no,Yes,No,Yes,No,Yes,Morning,Yes,No,Yes,No,Mild
+2019-9-20 12:33,Male,22,Student,sometimes,Yes,no,in a relationship,yes,Strong,poor,Extrovert,medium,sometimes,Maybe,No,sometimes,no change,yes,Yes,Yes,No,Yes,Yes,mid night,Yes,No,No,No,Mild
+2019-9-20 12:34,Female,21,Student,no,No,no,in a relationship,yes,Strong,middle class,Extrovert,medium,sometimes,Maybe,sometimes,sometimes,no change,yes,Maybe,Yes,No,Yes,No,afternoon,Maybe,Yes,No,No,Mild
+2019-9-20 12:35,Female,21,Student,no,No,no,in a relationship,no,Strong,middle class,Extrovert,Strong,sometimes,No,No,sometimes,gaining weight,yes,No,Yes,No,normal,Maybe,mid night,No,No,No,No,Negative
+2019-9-20 12:36,Female,23,Student,no,Yes,no,Single,yes,Strong,middle class,Extrovert,Strong,sometimes,Yes,sometimes,sometimes,gaining weight,yes,Yes,Yes,Maybe,Yes,Maybe,mid night,Maybe,Yes,No,No,Moderate
+2019-9-20 12:38,Female,26,Employee,sometimes,No,no,in a relationship,no,as usual,middle class,Extrovert,medium,sometimes,Yes,sometimes,always,no change,yes,Yes,Yes,No,Yes,Yes,mid night,Yes,Yes,Yes,normal,Severe
+2019-9-20 12:41,Female,23,Student,sometimes,Yes,no,Single,no,Strong,middle class,Introvert,medium,sometimes,No,No,sometimes,losing weight,yes,Maybe,Yes,No,Yes,Yes,afternoon,No,No,No,No,Negative
+2019-9-20 12:42,Female,22,Student,yes,No,no,Single,yes,Strong,well-off,Introvert,medium,sometimes,Yes,sometimes,sometimes,losing weight,no,No,Yes,No,Yes,Yes,mid night,No,No,Yes,normal,Mild
+2019-9-20 12:48,Female,20,Student,sometimes,Maybe,no,in a relationship,yes,Strong,middle class,Extrovert,Strong,No,No,sometimes,no,gaining weight,yes,Maybe,Yes,No,Yes,Yes,mid night,No,No,No,normal,Negative
+2019-9-20 12:57,Female,25,Unemployee,no,Yes,no,,no,as usual,well-off,Extrovert,Strong,sometimes,No,No,sometimes,gaining weight,yes,No,Yes,No,,Maybe,mid night,No,No,No,normal,Mild
+2019-9-20 12:59,Male,18,Student,no,Maybe,no,Single,no,Strong,middle class,Introvert,medium,No,No,sometimes,sometimes,no change,yes,Yes,No,No,Yes,Yes,afternoon,No,Yes,No,normal,Mild
+2019-9-20 12:59,Female,21,Student,sometimes,Maybe,no,in a relationship,no,Strong,middle class,Introvert,medium,sometimes,No,sometimes,sometimes,losing weight,no,No,Yes,No,Yes,Yes,afternoon,Yes,Yes,No,normal,Negative
+2019-9-20 13:11,Female,20,Student,sometimes,No,no,Single,no,Strong,well-off,Introvert,medium,sometimes,Maybe,sometimes,always,no change,no,Yes,Yes,Maybe,Yes,Maybe,mid night,Yes,Yes,No,No,Moderate
+2019-9-20 13:24,Female,23,Unemployee,no,No,no,married,no,Strong,middle class,Introvert,medium,sometimes,Maybe,sometimes,sometimes,no change,no,Maybe,No,Maybe,No,Yes,mid night,Yes,No,No,normal,Mild
+2019-9-20 13:24,Female,22,Student,sometimes,Maybe,no,in a relationship,no,as usual,middle class,Introvert,medium,sometimes,Maybe,No,sometimes,gaining weight,yes,Maybe,Yes,No,Yes,Yes,mid night,No,No,No,No,Negative
+2019-9-20 13:40,Female,22,Student,no,Maybe,no,in a relationship,yes,Strong,middle class,Extrovert,medium,No,No,No,sometimes,gaining weight,no,Maybe,Yes,No,normal,Yes,Morning,No,No,No,normal,Negative
+2019-9-20 13:43,Female,22,Student,yes,Yes,no,Single,yes,Strong,middle class,Introvert,medium,sometimes,Yes,sometimes,sometimes,losing weight,no,Maybe,Yes,No,normal,Maybe,mid night,No,No,Yes,normal,Moderate
+2019-9-20 13:45,Female,22,Student,no,No,no,Single,yes,as usual,middle class,Introvert,medium,Yes,No,sometimes,sometimes,gaining weight,yes,Yes,Yes,No,Yes,Maybe,Morning,No,Yes,No,No,Mild
+2019-9-20 14:02,Male,23,Student,yes,No,no,Single,yes,Strong,middle class,Introvert,medium,No,Yes,No,no,losing weight,yes,No,Yes,No,Yes,Yes,mid night,Yes,Yes,No,No,Mild
+2019-9-20 14:06,Female,21,Student,sometimes,No,no,in a relationship,yes,as usual,well-off,Extrovert,Strong,Yes,Yes,sometimes,always,no change,yes,No,Yes,No,No,Yes,afternoon,Maybe,No,No,No,Mild
+2019-9-20 14:07,Male,25,Student,sometimes,No,no,in a relationship,yes,as usual,middle class,Introvert,medium,sometimes,Maybe,No,sometimes,gaining weight,yes,Maybe,Yes,No,Yes,Maybe,mid night,No,Yes,No,No,Mild
+2019-9-20 14:08,Male,25,Student,sometimes,No,no,in a relationship,yes,as usual,middle class,Introvert,medium,sometimes,Maybe,No,sometimes,gaining weight,yes,Maybe,Yes,No,Yes,Maybe,mid night,No,Yes,No,No,Mild
+2019-9-20 14:25,Female,22,Student,yes,Yes,no,Single,yes,Weak,middle class,Introvert,medium,Yes,Yes,Yes,sometimes,gaining weight,yes,Maybe,Yes,Yes,normal,No,mid night,Maybe,Yes,No,No,Moderate
+2019-9-20 14:30,Male,21,Student,no,Yes,no,in a relationship,yes,Strong,middle class,Extrovert,medium,sometimes,Maybe,No,no,gaining weight,yes,No,Yes,No,Yes,Maybe,mid night,No,No,No,No,Negative
+2019-9-20 14:31,Male,22,Student,yes,Yes,no,in a relationship,no,Strong,middle class,Introvert,medium,No,Yes,sometimes,sometimes,gaining weight,no,No,Yes,No,Yes,Yes,mid night,Yes,Yes,No,No,Mild
+2019-9-20 14:36,Female,22,Student,yes,Yes,no,in a relationship,yes,as usual,middle class,Introvert,medium,sometimes,No,sometimes,always,no change,yes,Yes,No,No,Yes,No,afternoon,Yes,Yes,No,No,Mild
+2019-9-20 14:39,Male,25,Student,no,Maybe,no,Single,no,Strong,middle class,Introvert,medium,No,No,sometimes,no,losing weight,yes,No,Yes,No,No,Maybe,afternoon,Maybe,No,No,No,Negative
+2019-9-20 14:44,Female,22,Student,no,Yes,no,Single,yes,as usual,middle class,Introvert,medium,sometimes,No,No,sometimes,no change,no,Yes,Yes,No,No,Maybe,afternoon,Maybe,Yes,No,No,Mild
+2019-9-20 14:48,Male,21,Student,yes,Yes,no,Single,no,as usual,middle class,Introvert,medium,Yes,Maybe,sometimes,always,gaining weight,yes,Yes,Yes,Yes,Yes,Maybe,afternoon,Maybe,Yes,No,No,Moderate
+2019-9-20 14:49,Male,23,Student,yes,No,no,Single,no,Strong,middle class,Extrovert,medium,sometimes,No,sometimes,sometimes,no change,no,Yes,Yes,Yes,Yes,Yes,mid night,Yes,Yes,No,normal,Moderate
+2019-9-20 14:54,Male,23,Student,yes,Maybe,yes,Single,no,Strong,middle class,Introvert,weak,sometimes,No,No,sometimes,no change,no,No,No,No,Yes,Maybe,mid night,No,Yes,No,normal,Mild
+2019-9-20 15:03,Male,23,Student,no,Yes,no,Single,yes,Strong,middle class,Introvert,medium,sometimes,No,sometimes,sometimes,gaining weight,no,No,Yes,No,Yes,Maybe,afternoon,Yes,No,No,normal,Negative
+2019-9-20 15:03,Male,23,Student,no,Yes,no,in a complicated relationship,no,Strong,well-off,Extrovert,medium,No,No,No,no,gaining weight,yes,Yes,Yes,No,No,No,mid night,Maybe,No,Yes,normal,Moderate
+2019-9-20 15:05,Female,23,Student,no,Yes,no,in a relationship,yes,Strong,well-off,Introvert,medium,Yes,Maybe,sometimes,sometimes,gaining weight,yes,Yes,Yes,No,Yes,No,mid night,Maybe,Yes,No,No,Mild
+2019-9-20 15:08,Male,20,Student,yes,Maybe,no,Single,yes,Strong,middle class,Extrovert,medium,sometimes,No,sometimes,sometimes,no change,no,No,Yes,No,Yes,Yes,afternoon,Yes,No,Yes,No,Negative
+2019-9-20 15:09,Male,21,Student,no,No,no,Single,no,Strong,well-off,Extrovert,Strong,No,No,No,no,no change,no,No,Yes,No,normal,Yes,afternoon,No,No,No,normal,Negative
+2019-9-20 15:24,Female,23,Student,sometimes,Yes,no,Single,no,Strong,middle class,Introvert,medium,sometimes,Yes,sometimes,sometimes,gaining weight,no,Yes,Yes,No,Yes,No,mid night,Yes,Yes,No,No,Moderate
+2019-9-20 15:32,Male,22,Student,yes,Yes,no,Single,yes,Strong,middle class,Introvert,Strong,No,No,sometimes,sometimes,gaining weight,yes,No,Yes,No,Yes,Yes,mid night,Yes,No,No,normal,Negative
+2019-9-20 15:33,Male,21,Student,sometimes,Yes,no,Single,yes,Strong,middle class,Introvert,medium,No,Yes,No,sometimes,losing weight,no,Maybe,Yes,Yes,normal,Maybe,afternoon,Maybe,Yes,No,No,Mild
+2019-9-20 15:33,Male,22,Student,yes,Maybe,no,Single,no,Strong,middle class,Introvert,medium,sometimes,Yes,sometimes,sometimes,losing weight,yes,Yes,Yes,Maybe,Yes,Yes,mid night,Maybe,Yes,No,normal,Moderate
+2019-9-20 15:35,Female,22,Student,sometimes,Maybe,no,in a complicated relationship,no,as usual,middle class,Introvert,medium,Yes,Yes,sometimes,sometimes,no change,no,Yes,Yes,Maybe,Yes,Maybe,afternoon,Maybe,Yes,Yes,No,Severe
+2019-9-20 15:37,Male,22,Student,sometimes,No,no,in a relationship,no,Strong,middle class,Introvert,medium,sometimes,No,No,no,gaining weight,yes,Maybe,Yes,No,Yes,Maybe,mid night,No,No,No,normal,Seasonal
+2019-9-20 15:36,Female,23,Student,no,Yes,no,married,no,Strong,middle class,Extrovert,Strong,No,No,No,sometimes,gaining weight,yes,No,Yes,No,normal,Yes,afternoon,No,No,No,normal,Negative
+2019-9-20 15:37,Male,27,Student,yes,Yes,,married,yes,Strong,middle class,Extrovert,medium,Yes,No,Yes,sometimes,gaining weight,yes,Yes,Yes,Yes,Yes,Yes,mid night,No,Yes,No,Yes,Mild
+2019-9-20 15:37,Female,22,Student,sometimes,No,no,in a relationship,no,Strong,middle class,Introvert,medium,sometimes,No,sometimes,sometimes,losing weight,no,No,Yes,No,normal,Yes,afternoon,No,Yes,No,normal,Mild
+2019-9-20 15:39,Male,21,Student,no,Yes,no,Single,no,Strong,middle class,Extrovert,medium,Yes,Yes,No,no,no change,no,No,Yes,No,Yes,No,Morning,Yes,No,No,No,Negative
+2019-9-20 15:41,Female,25,Student,yes,No,no,other,no,as usual,poor,Introvert,weak,sometimes,Yes,sometimes,sometimes,no change,no,Maybe,Yes,Yes,Yes,Yes,Morning,No,No,No,No,Seasonal
+2019-9-20 15:43,Male,26,Employee,sometimes,Maybe,no,Single,yes,Strong,middle class,Introvert,medium,sometimes,No,No,sometimes,no change,yes,Maybe,Yes,No,Yes,Yes,mid night,No,Yes,No,No,Seasonal
+2019-9-20 15:44,Female,25,Employee,no,Maybe,no,Single,yes,as usual,middle class,Extrovert,medium,No,No,No,sometimes,gaining weight,yes,No,No,No,normal,Yes,mid night,No,No,No,Yes,Negative
+2019-9-20 15:46,Female,25,Employee,yes,Maybe,no,in a complicated relationship,no,as usual,middle class,Extrovert,medium,sometimes,Yes,Yes,sometimes,losing weight,no,Yes,Yes,No,normal,Maybe,mid night,Maybe,Yes,No,No,Mild
+2019-9-20 15:50,Female,23,Unemployee,no,No,no,in a relationship,yes,Strong,middle class,Introvert,weak,No,No,No,sometimes,no change,no,No,Yes,No,Yes,Maybe,Morning,No,Yes,No,No,Mild
+2019-9-20 15:59,Female,21,Student,yes,Maybe,no,Single,no,as usual,poor,Introvert,weak,sometimes,No,No,sometimes,no change,yes,Yes,Yes,Maybe,Yes,Yes,mid night,No,Yes,No,normal,Mild
+2019-9-20 15:59,Male,25,Student,no,Maybe,no,in a relationship,yes,as usual,middle class,Extrovert,medium,sometimes,Yes,No,no,no change,no,Maybe,Yes,No,normal,Yes,afternoon,No,No,No,normal,Negative
+2019-9-20 16:00,Female,22,Student,no,Yes,no,Single,no,as usual,middle class,Extrovert,medium,sometimes,Maybe,No,sometimes,no change,yes,Maybe,Yes,No,normal,No,afternoon,Yes,No,No,No,Negative
+2019-9-20 16:03,Male,23,Student,sometimes,No,no,Single,yes,as usual,middle class,Introvert,medium,sometimes,No,sometimes,sometimes,no change,yes,No,No,No,normal,Maybe,mid night,No,Yes,No,Yes,Mild
+2019-9-20 16:06,Male,27,Employee,no,Yes,no,married,yes,Strong,well-off,Introvert,medium,Yes,Maybe,No,sometimes,no change,yes,Yes,No,No,No,Yes,Morning,Maybe,Yes,No,No,Mild
+2019-9-20 16:14,Male,23,Student,yes,Yes,no,Single,yes,as usual,middle class,Introvert,medium,sometimes,Maybe,sometimes,sometimes,no change,yes,Yes,Yes,No,Yes,No,Morning,Yes,Yes,No,No,Mild
+2019-9-20 16:16,Female,25,Employee,no,Yes,no,married,no,Strong,middle class,Extrovert,medium,sometimes,Yes,Yes,sometimes,losing weight,yes,Yes,No,Yes,Yes,No,mid night,Yes,Yes,Yes,No,Severe
+2019-9-20 16:17,Male,20,Student,no,Maybe,no,Single,no,Strong,middle class,Introvert,medium,sometimes,No,No,sometimes,losing weight,yes,No,No,No,normal,Yes,mid night,Maybe,No,No,normal,Negative
+2019-9-20 16:18,Male,31,Employee,sometimes,Yes,no,Single,no,Strong,well-off,Introvert,medium,No,Maybe,sometimes,sometimes,no change,yes,No,Yes,No,normal,Maybe,mid night,Maybe,No,No,Yes,Negative
+2019-9-20 16:19,Female,20,Student,no,Maybe,no,Single,no,Strong,poor,Introvert,medium,sometimes,No,No,sometimes,no change,yes,Maybe,Yes,No,Yes,Maybe,mid night,Maybe,No,No,normal,Negative
+2019-9-20 16:25,Female,23,Student,sometimes,Maybe,no,in a complicated relationship,yes,as usual,poor,Introvert,weak,sometimes,Maybe,No,always,gaining weight,no,Maybe,Yes,Maybe,Yes,Maybe,mid night,Maybe,Yes,Yes,No,Severe
+2019-9-20 16:31,Male,21,Student,sometimes,No,no,Single,no,Strong,middle class,Introvert,Strong,sometimes,Maybe,No,sometimes,no change,yes,Yes,Yes,Maybe,No,Yes,mid night,Maybe,No,No,No,Negative
+2019-9-20 16:42,Male,23,Student,yes,No,no,Single,yes,as usual,well-off,Introvert,Strong,Yes,Yes,No,always,no change,no,Yes,Yes,Yes,No,Yes,mid night,Yes,Yes,Yes,No,severe
+2019-9-20 16:44,Female,,Student,yes,Maybe,no,Single,yes,as usual,well-off,Introvert,medium,Yes,Maybe,sometimes,always,gaining weight,no,Yes,Yes,Yes,Yes,Maybe,afternoon,Yes,Yes,No,No,Moderate
+2019-9-20 16:44,Male,20,Student,yes,Maybe,no,Single,no,as usual,middle class,Introvert,weak,Yes,Yes,sometimes,sometimes,gaining weight,no,Yes,Yes,Yes,Yes,No,mid night,Maybe,Yes,No,No,Mild
+2019-9-20 16:48,Male,28,Employee,sometimes,No,no,Single,no,as usual,middle class,Introvert,weak,Yes,Yes,sometimes,always,no change,yes,Yes,Yes,Yes,Yes,Maybe,mid night,Yes,Yes,No,normal,Moderate
+2019-9-20 16:48,Male,28,Employee,sometimes,No,no,Single,no,as usual,middle class,Introvert,weak,Yes,Yes,sometimes,always,no change,yes,Yes,Yes,Yes,Yes,Maybe,mid night,Yes,Yes,No,normal,Mild
+2019-9-20 16:51,Male,24,Employee,yes,Maybe,no,Single,yes,Strong,poor,Introvert,weak,sometimes,Yes,No,always,losing weight,yes,Maybe,Yes,Yes,Yes,No,mid night,Maybe,Yes,No,normal,Moderate
+2019-9-20 17:06,Male,24,Student,sometimes,No,no,in a relationship,no,as usual,middle class,Extrovert,medium,No,No,No,no,no change,yes,No,No,No,normal,Maybe,mid night,Maybe,No,No,normal,Negative
+2019-9-20 17:07,Male,24,Student,sometimes,No,no,Single,yes,as usual,middle class,Introvert,medium,sometimes,No,No,sometimes,gaining weight,yes,No,Yes,Maybe,normal,Maybe,mid night,Maybe,Yes,No,No,Negative
+2019-9-20 17:12,Male,23,Student,no,No,no,in a relationship,no,Strong,middle class,Introvert,medium,No,Yes,No,sometimes,no change,yes,Yes,No,No,Yes,Yes,mid night,No,No,No,Yes,Negative
+2019-9-20 17:20,Male,18,Student,no,No,no,Single,no,Strong,middle class,Introvert,medium,No,Maybe,No,sometimes,gaining weight,no,No,No,No,normal,Yes,mid night,No,No,No,normal,Negative
+2019-9-20 17:54,Female,27,Student,no,No,no,in a complicated relationship,yes,as usual,middle class,Introvert,Strong,always,Yes,sometimes,always,gaining weight,yes,Yes,Yes,Yes,No,No,Morning,Yes,Yes,Yes,No,Severe
+2019-9-20 17:59,Male,24,Student,no,Yes,no,Single,no,Strong,middle class,Introvert,medium,No,No,No,no,losing weight,yes,No,Yes,No,No,Maybe,mid night,No,No,No,No,Negative
+2019-9-20 18:17,Female,22,Student,no,Yes,no,in a relationship,yes,as usual,middle class,Extrovert,medium,Yes,Yes,sometimes,always,gaining weight,yes,Yes,Yes,Maybe,Yes,No,mid night,Yes,Yes,No,No,Seasonal
+2019-9-20 18:22,Male,22,Student,yes,Yes,no,Single,no,Strong,well-off,Extrovert,Strong,No,Yes,sometimes,sometimes,gaining weight,no,Yes,Yes,No,normal,Yes,afternoon,Yes,Yes,No,No,Mild
+2019-9-20 18:42,Female,22,Student,yes,Yes,no,Single,yes,as usual,middle class,Introvert,medium,sometimes,Yes,sometimes,sometimes,gaining weight,no,Maybe,Yes,No,Yes,Maybe,afternoon,Yes,Yes,No,No,Mild
+2019-9-20 18:56,Male,20,Student,sometimes,Maybe,no,in a relationship,no,Strong,middle class,Introvert,medium,sometimes,Maybe,sometimes,sometimes,no change,yes,Yes,No,No,normal,Maybe,mid night,Maybe,No,No,normal,Negative
+2019-9-20 18:59,Female,22,Student,no,No,no,in a relationship,no,Strong,well-off,Introvert,medium,sometimes,Yes,sometimes,sometimes,no change,no,Yes,Yes,No,Yes,Yes,mid night,No,No,No,No,Negative
+2019-9-20 19:04,Male,20,Student,yes,Yes,no,Single,no,Strong,middle class,Introvert,weak,Yes,Yes,No,sometimes,no change,yes,Yes,Yes,No,Yes,No,mid night,Maybe,Yes,No,No,Mild
+2019-9-20 19:14,Male,23,Student,no,Maybe,no,Single,yes,as usual,middle class,Introvert,medium,Yes,No,No,sometimes,no change,no,Yes,No,Maybe,Yes,Maybe,mid night,Maybe,Yes,No,No,Mild
+2019-9-20 19:16,Male,21,Student,sometimes,No,no,Single,no,as usual,middle class,Introvert,medium,sometimes,No,sometimes,sometimes,no change,no,Maybe,Yes,No,Yes,Maybe,mid night,Maybe,Yes,No,Yes,Mild
+2019-9-20 19:19,Male,25,Student,yes,Maybe,no,Single,no,Strong,middle class,Introvert,medium,sometimes,No,No,sometimes,gaining weight,yes,Yes,Yes,No,Yes,Maybe,mid night,Yes,Yes,No,Yes,Negative
+2019-9-20 19:25,Female,21,Student,no,Yes,no,Single,no,Strong,well-off,Introvert,medium,sometimes,Yes,Yes,sometimes,gaining weight,yes,Yes,Yes,No,Yes,Maybe,mid night,No,No,No,normal,Mild
+2019-9-20 19:26,Male,23,Student,no,No,no,Single,no,Strong,middle class,Introvert,weak,sometimes,Yes,No,sometimes,no change,no,Yes,Yes,No,Yes,Yes,mid night,No,No,No,normal,Negative
+2019-9-20 19:28,Male,25,Student,sometimes,Maybe,no,Single,no,Weak,middle class,Introvert,weak,always,Yes,No,always,gaining weight,no,Yes,Yes,Yes,Yes,No,afternoon,Yes,Yes,No,normal,Mild
+2019-9-20 19:36,Male,21,Student,no,Maybe,no,Single,no,Strong,middle class,Introvert,medium,No,No,No,no,no change,yes,No,No,No,normal,Yes,afternoon,No,No,No,normal,Negative
+2019-9-20 19:38,Female,21,Student,sometimes,Yes,no,Single,yes,Strong,middle class,Extrovert,medium,sometimes,Yes,sometimes,sometimes,gaining weight,yes,Maybe,Yes,Maybe,normal,Yes,afternoon,Maybe,No,No,No,Negative
+2019-9-20 19:49,Male,22,Student,sometimes,No,no,Single,yes,Strong,middle class,Introvert,medium,No,No,sometimes,no,no change,yes,No,Yes,No,No,Maybe,mid night,No,No,No,Yes,Negative
+2019-9-20 19:52,Male,21,Student,yes,Yes,no,in a relationship,no,as usual,middle class,Introvert,medium,Yes,Maybe,Yes,sometimes,gaining weight,yes,No,Yes,Maybe,normal,Maybe,Morning,Yes,Yes,No,No,Mild
+2019-9-20 20:03,Male,22,Student,no,Yes,no,Single,yes,as usual,poor,Extrovert,medium,Yes,No,No,always,gaining weight,yes,No,Yes,Yes,Yes,Maybe,afternoon,No,Yes,No,No,Mild
+2019-9-20 20:07,Female,25,Student,sometimes,Maybe,no,Single,yes,as usual,poor,Introvert,weak,always,Yes,sometimes,sometimes,gaining weight,yes,Yes,Yes,Yes,Yes,No,Morning,Maybe,No,No,No,Mild
+2019-9-20 20:07,Female,19,Student,yes,Yes,no,Single,yes,as usual,poor,Introvert,weak,Yes,Maybe,Yes,always,losing weight,no,Yes,Yes,Yes,Yes,No,mid night,Yes,Yes,No,No,Moderate
+2019-9-20 20:08,Male,21,Student,sometimes,Maybe,no,in a complicated relationship,yes,Strong,middle class,Extrovert,medium,No,No,sometimes,sometimes,gaining weight,yes,Yes,Yes,No,Yes,Maybe,afternoon,Maybe,Yes,No,No,Mild
+2019-9-20 20:09,Male,20,Student,sometimes,Yes,no,in a relationship,no,as usual,middle class,Introvert,medium,Yes,No,sometimes,sometimes,losing weight,no,Maybe,No,Maybe,normal,No,mid night,Maybe,Yes,No,No,Mild
+2019-9-20 20:19,Male,32,Employee,sometimes,Maybe,no,married,no,as usual,middle class,Extrovert,Strong,sometimes,No,No,no,gaining weight,yes,Yes,Yes,No,normal,Yes,Morning,No,No,No,normal,Negative
+2019-9-20 20:23,Male,20,Student,sometimes,Yes,no,married,yes,as usual,middle class,Extrovert,Strong,No,No,sometimes,sometimes,no change,yes,No,No,No,Yes,Yes,afternoon,No,Yes,No,Yes,Mild
+2019-9-20 20:23,Female,19,Student,no,Yes,no,Single,no,Weak,middle class,Introvert,weak,Yes,No,sometimes,always,no change,yes,Yes,Yes,No,Yes,No,mid night,Maybe,No,No,No,Negative
+2019-9-20 20:25,Male,20,Student,sometimes,Yes,no,Single,yes,as usual,middle class,Extrovert,medium,sometimes,No,No,no,no change,no,No,Yes,No,normal,Maybe,afternoon,Maybe,No,No,No,Negative
+2019-9-20 20:26,Female,22,Student,yes,Maybe,no,in a relationship,no,as usual,well-off,Introvert,medium,Yes,No,sometimes,sometimes,gaining weight,no,Yes,Yes,Maybe,Yes,Maybe,mid night,Yes,Yes,No,No,Mild
+2019-9-20 20:35,Male,21,Student,no,Yes,no,Single,no,Weak,middle class,Extrovert,medium,sometimes,Yes,No,always,no change,no,Yes,Yes,Maybe,Yes,Yes,mid night,Yes,Yes,No,No,Mild
+2019-9-20 20:39,Male,21,Student,no,Yes,no,Single,no,Strong,middle class,Extrovert,Strong,No,No,No,sometimes,no change,yes,Maybe,No,No,normal,Yes,mid night,No,No,No,Yes,Negative
+2019-9-20 20:39,Female,22,Student,no,Maybe,no,Single,yes,as usual,middle class,Extrovert,medium,sometimes,Yes,sometimes,always,gaining weight,no,Maybe,Yes,Maybe,No,Yes,afternoon,Yes,Yes,No,Yes,Mild
+2019-9-20 20:46,Female,22,Student,sometimes,Maybe,no,in a relationship,no,Strong,middle class,Extrovert,medium,sometimes,No,sometimes,no,gaining weight,yes,Yes,No,No,normal,Maybe,mid night,Maybe,No,No,Yes,Negative
+2019-9-20 20:51,Female,23,Student,no,No,no,in a relationship,no,Strong,well-off,Introvert,medium,sometimes,Yes,sometimes,sometimes,no change,no,Yes,No,Maybe,Yes,Maybe,afternoon,Yes,No,No,No,Mild
+2019-9-20 21:01,Male,24,Unemployee,no,Yes,no,in a relationship,no,Strong,middle class,Introvert,medium,Yes,No,sometimes,sometimes,no change,no,Yes,Yes,Yes,No,Maybe,mid night,Yes,Yes,No,No,Mild
+2019-9-20 21:06,Female,21,Student,no,Maybe,no,in a relationship,no,Weak,well-off,Introvert,medium,Yes,Maybe,No,always,gaining weight,no,Maybe,Yes,No,Yes,Yes,mid night,Maybe,Yes,No,No,Mild
+2019-9-20 21:08,Male,27,Employee,sometimes,Yes,no,Single,no,Strong,middle class,Introvert,medium,sometimes,No,No,sometimes,gaining weight,no,Maybe,Yes,No,Yes,Yes,afternoon,No,No,No,normal,Negative
+2019-9-20 21:18,Male,23,Student,yes,Maybe,no,in a relationship,no,as usual,middle class,Extrovert,Strong,No,No,No,no,gaining weight,yes,No,Yes,No,normal,Yes,mid night,Yes,Yes,No,Yes,Mild
+2019-9-20 21:19,Male,24,Student,no,Yes,no,Single,no,Strong,middle class,Introvert,weak,Yes,No,No,sometimes,gaining weight,yes,No,Yes,No,Yes,Maybe,afternoon,No,Yes,No,No,Mild
+2019-9-20 21:26,Male,25,Employee,no,Yes,no,in a relationship,no,Strong,middle class,Introvert,medium,No,Yes,No,sometimes,no change,yes,Yes,Yes,No,Yes,Yes,mid night,Yes,No,No,normal,Negative
+2019-9-20 21:27,Female,22,Student,sometimes,Yes,no,Single,no,Strong,middle class,Extrovert,medium,sometimes,No,No,no,no change,yes,No,Yes,No,Yes,Yes,Morning,Maybe,No,No,normal,Negative
+2019-9-20 21:33,Female,26,Student,no,Yes,yes,in a relationship,yes,Strong,middle class,Extrovert,Strong,No,No,No,no,no change,yes,No,Yes,No,Yes,Yes,Morning,No,No,No,No,Negative
+2019-9-20 21:36,Male,23,Student,sometimes,No,no,Single,,as usual,middle class,Extrovert,medium,No,No,No,always,gaining weight,yes,No,Yes,No,normal,Yes,Morning,Yes,No,No,No,Negative
+2019-9-20 21:36,Male,26,Student,sometimes,Maybe,no,in a relationship,no,Strong,middle class,Extrovert,medium,No,Maybe,sometimes,sometimes,gaining weight,yes,Maybe,Yes,No,Yes,Yes,mid night,Maybe,Yes,No,Yes,Mild
+2019-9-20 21:39,Male,24,Student,no,Maybe,no,Single,yes,Strong,middle class,Introvert,medium,sometimes,No,No,no,gaining weight,yes,No,Yes,No,normal,Yes,mid night,No,No,No,normal,Negative
+2019-9-20 21:43,Male,27,Employee,no,Yes,no,Single,no,Strong,middle class,Introvert,medium,sometimes,No,No,sometimes,no change,yes,No,Yes,No,Yes,Maybe,afternoon,No,No,No,Yes,Negative
+2019-9-20 21:47,Female,28,Employee,yes,Yes,no,Single,yes,as usual,middle class,Extrovert,medium,Yes,Yes,sometimes,always,gaining weight,yes,Yes,Yes,Yes,Yes,Yes,Morning,Yes,Yes,No,normal,Moderate
+2019-9-20 21:54,Male,24,Unemployee,yes,Maybe,no,Single,no,Strong,middle class,Extrovert,Strong,No,Yes,Yes,always,no change,yes,Yes,Yes,Maybe,Yes,Yes,mid night,Maybe,Yes,No,normal,Moderate
+2019-9-20 21:54,Male,27,Employee,no,No,no,married,no,Strong,middle class,Extrovert,medium,No,No,No,sometimes,gaining weight,no,No,No,No,Yes,Yes,afternoon,No,No,No,normal,Negative
+2019-9-20 21:56,Female,24,Student,no,Maybe,no,Single,no,Strong,middle class,Introvert,medium,No,No,No,no,gaining weight,no,No,No,Yes,normal,Maybe,afternoon,Maybe,No,No,normal,Negative
+2019-9-20 21:57,Male,23,Student,sometimes,Maybe,yes,Single,no,as usual,middle class,Introvert,medium,sometimes,Maybe,No,sometimes,no change,no,Maybe,Yes,Maybe,No,Maybe,mid night,Yes,Yes,No,No,Mild
+2019-9-20 22:13,Female,24,Student,sometimes,Maybe,no,in a relationship,yes,as usual,well-off,Introvert,medium,sometimes,Yes,sometimes,sometimes,no change,yes,No,Yes,No,Yes,Maybe,mid night,Maybe,Yes,Yes,No,Severe
+2019-9-20 22:28,Male,24,Student,yes,No,no,Single,no,Strong,poor,Introvert,medium,Yes,Yes,Yes,always,losing weight,yes,Yes,Yes,No,No,No,mid night,Yes,Yes,No,Yes,Mild
+2019-9-20 22:30,Female,25,Employee,yes,Maybe,no,Single,no,Strong,middle class,Extrovert,medium,sometimes,Yes,sometimes,sometimes,no change,no,Yes,Yes,No,Yes,No,mid night,Yes,Yes,No,normal,Seasonal
+2019-9-20 22:35,Male,26,Employee,no,Yes,no,Single,yes,Strong,well-off,Extrovert,medium,sometimes,No,No,sometimes,gaining weight,no,Maybe,No,No,normal,Yes,afternoon,No,No,No,Yes,Negative
+2019-9-20 22:36,Female,26,Employee,no,Yes,no,in a relationship,no,as usual,middle class,Extrovert,Strong,Yes,No,No,sometimes,no change,yes,No,Yes,No,normal,Yes,Morning,No,No,No,Yes,Negative
+2019-9-20 22:36,Female,21,Student,no,Yes,no,Single,yes,Strong,middle class,Extrovert,Strong,Yes,No,sometimes,sometimes,no change,yes,Yes,Yes,Yes,Yes,No,afternoon,Yes,Yes,No,No,Mild
+2019-9-20 22:36,Female,23,Student,sometimes,Maybe,no,in a relationship,no,Strong,well-off,Extrovert,medium,sometimes,No,No,no,gaining weight,yes,Maybe,Yes,No,Yes,Yes,Morning,No,No,No,normal,Negative
+2019-9-20 22:38,Male,22,Student,no,Yes,no,Single,yes,Strong,middle class,Extrovert,medium,Yes,No,Yes,sometimes,no change,yes,Yes,Yes,Yes,normal,No,mid night,Yes,No,No,No,Negative
+2019-9-20 22:38,Female,22,Student,no,Yes,no,in a relationship,no,as usual,middle class,Introvert,weak,sometimes,Maybe,No,sometimes,gaining weight,yes,No,Yes,No,normal,Maybe,mid night,No,No,No,No,Negative
+2019-9-20 22:38,Male,23,Unemployee,no,Yes,no,Single,yes,Strong,middle class,Introvert,medium,No,Yes,No,sometimes,no change,yes,No,Yes,No,No,Yes,mid night,No,Yes,No,normal,Mild
+2019-9-20 22:39,Female,22,Student,no,Yes,no,Single,yes,Strong,well-off,Introvert,weak,Yes,No,sometimes,sometimes,no change,no,No,Yes,Maybe,Yes,No,mid night,Yes,Yes,No,normal,Mild
+2019-9-20 22:40,Female,22,Student,no,No,no,Single,no,Strong,middle class,Introvert,medium,sometimes,No,No,sometimes,gaining weight,no,No,Yes,No,normal,Yes,Morning,Maybe,Yes,No,No,Mild
+2019-9-20 22:40,Male,22,Student,no,No,no,in a relationship,no,as usual,middle class,Introvert,medium,No,No,No,no,gaining weight,no,No,Yes,No,Yes,Yes,mid night,No,Yes,No,Yes,Mild
+2019-9-20 22:41,Female,22,Student,no,Maybe,no,Single,yes,Strong,middle class,Introvert,medium,sometimes,No,sometimes,sometimes,gaining weight,no,No,Yes,No,Yes,Yes,afternoon,Maybe,No,No,normal,Negative
+2019-9-20 22:43,Female,23,Student,sometimes,Yes,no,Single,no,Strong,middle class,Extrovert,medium,Yes,Yes,sometimes,sometimes,gaining weight,no,Yes,Yes,Yes,Yes,Yes,mid night,Maybe,Yes,No,No,Mild
+2019-9-20 22:43,Male,23,Student,no,Yes,no,in a relationship,no,as usual,middle class,Extrovert,medium,sometimes,Maybe,No,sometimes,no change,yes,Yes,Yes,Yes,Yes,Yes,mid night,Maybe,Yes,No,No,Mild
+2019-9-20 22:43,Female,23,Student,no,Maybe,no,Single,no,Strong,middle class,Introvert,weak,sometimes,Maybe,sometimes,sometimes,no change,no,Yes,No,No,No,Maybe,mid night,Yes,No,No,No,Negative
+2019-9-20 22:44,Male,22,Student,sometimes,Yes,no,Single,,as usual,middle class,Introvert,Strong,sometimes,No,No,no,gaining weight,yes,Maybe,Yes,No,Yes,Maybe,afternoon,Maybe,Yes,No,Yes,Mild
+2019-9-20 22:45,Female,24,Student,sometimes,No,yes,in a relationship,yes,Strong,middle class,Extrovert,medium,No,No,Yes,sometimes,no change,yes,Maybe,Yes,No,No,Maybe,afternoon,No,No,No,normal,Negative
+2019-9-20 22:45,Male,25,Student,yes,Yes,no,in a relationship,yes,Strong,middle class,Introvert,medium,No,Yes,No,always,losing weight,no,No,Yes,Maybe,Yes,No,mid night,Yes,Yes,Yes,No,Severe
+2019-9-20 22:46,Female,22,Student,sometimes,Yes,no,Single,yes,as usual,middle class,Extrovert,Strong,Yes,Yes,sometimes,always,gaining weight,yes,Yes,No,Yes,Yes,No,mid night,Maybe,Yes,Yes,normal,Severe
+2019-9-20 22:47,Male,25,Employee,yes,Yes,no,Single,yes,as usual,middle class,Extrovert,medium,No,No,No,no,gaining weight,yes,No,Yes,No,normal,Maybe,mid night,Yes,No,No,Yes,Severe
+2019-9-20 22:47,Female,22,Student,sometimes,Maybe,no,in a complicated relationship,yes,Strong,middle class,Introvert,weak,Yes,Yes,Yes,always,gaining weight,yes,Yes,Yes,Yes,Yes,No,afternoon,Yes,Yes,Yes,No,Severe
+2019-9-20 22:47,Female,23,Student,no,No,no,in a complicated relationship,no,Strong,middle class,Extrovert,medium,sometimes,Yes,sometimes,sometimes,no change,yes,Yes,Yes,No,No,Yes,mid night,Yes,No,No,No,Mild
+2019-9-20 22:50,Male,22,Student,no,Yes,yes,in a relationship,yes,as usual,middle class,Extrovert,Strong,No,Yes,No,sometimes,no change,yes,Yes,Yes,No,Yes,No,mid night,Maybe,Yes,No,No,Mild
+2019-9-20 22:58,Male,26,Unemployee,no,Maybe,no,in a relationship,no,Weak,well-off,Extrovert,medium,Yes,No,No,no,no change,no,Yes,Yes,No,normal,Yes,mid night,Maybe,No,No,normal,Negative
+2019-9-20 22:59,Female,18,Student,sometimes,Maybe,no,Single,yes,as usual,middle class,,medium,sometimes,No,sometimes,sometimes,losing weight,no,Yes,Yes,Yes,Yes,No,afternoon,Maybe,No,No,normal,Seasonal
+2019-9-20 23:00,Male,23,Unemployee,sometimes,Maybe,no,Single,yes,Strong,poor,Extrovert,medium,No,Yes,sometimes,sometimes,no change,yes,Yes,Yes,No,No,Yes,afternoon,Maybe,Yes,Yes,normal,Severe
+2019-9-20 23:00,Male,24,Student,no,Yes,no,in a relationship,yes,as usual,middle class,Extrovert,medium,sometimes,Maybe,sometimes,no,gaining weight,yes,Maybe,Yes,No,Yes,No,afternoon,No,No,No,No,Negative
+2019-9-20 23:01,Female,18,Student,sometimes,Yes,no,Single,yes,as usual,middle class,,medium,sometimes,No,sometimes,sometimes,losing weight,no,Maybe,Yes,Yes,Yes,Maybe,afternoon,Maybe,Yes,No,No,Mild
+2019-9-20 23:03,Female,26,Employee,sometimes,No,no,married,no,Strong,middle class,Introvert,weak,No,Yes,sometimes,sometimes,gaining weight,yes,No,Yes,No,Yes,Yes,mid night,Yes,Yes,Yes,Yes,Severe
+2019-9-20 23:03,Female,24,Student,no,Maybe,no,Single,no,Strong,well-off,Introvert,weak,sometimes,Yes,sometimes,sometimes,gaining weight,no,Yes,Yes,No,Yes,Maybe,mid night,Maybe,Yes,No,Yes,Moderate
+2019-9-20 23:05,Male,24,Employee,sometimes,No,no,Single,yes,as usual,middle class,Introvert,medium,No,Yes,No,no,no change,no,Maybe,Yes,No,normal,Maybe,afternoon,No,No,No,Yes,Negative
+2019-9-20 23:06,Male,19,Student,sometimes,Maybe,no,in a relationship,no,Strong,middle class,Extrovert,Strong,No,No,No,no,gaining weight,no,No,Yes,No,No,Yes,mid night,No,No,No,No,Mild
+2019-9-20 23:09,Male,19,Student,no,No,no,Single,no,Strong,middle class,Introvert,medium,No,Maybe,sometimes,sometimes,gaining weight,yes,No,No,No,No,Maybe,mid night,No,No,No,No,Mild
+2019-9-20 23:09,Female,29,Employee,no,Maybe,no,Single,yes,Strong,middle class,Extrovert,medium,sometimes,Yes,No,sometimes,losing weight,no,Yes,Yes,No,No,Yes,afternoon,Yes,No,No,Yes,Negative
+2019-9-20 23:11,Male,28,Student,no,No,no,married,no,Strong,middle class,Introvert,medium,No,No,No,no,gaining weight,yes,No,No,No,Yes,Yes,afternoon,No,No,No,normal,Negative
+2019-9-20 23:14,Male,22,Student,yes,Maybe,yes,other,yes,as usual,poor,Extrovert,Strong,No,No,sometimes,sometimes,gaining weight,yes,No,Yes,No,Yes,No,afternoon,Yes,No,No,No,Negative
+2019-9-20 23:16,Male,23,Student,sometimes,Maybe,no,Single,yes,Strong,middle class,Extrovert,medium,sometimes,No,No,sometimes,gaining weight,yes,Maybe,No,Maybe,Yes,Yes,mid night,Yes,Yes,No,No,Mild
+2019-9-20 23:16,Female,21,Student,sometimes,Maybe,no,in a relationship,yes,Strong,middle class,Extrovert,medium,sometimes,Yes,sometimes,sometimes,gaining weight,yes,No,Yes,Yes,Yes,Yes,mid night,Yes,Yes,Yes,normal,Severe
+2019-9-20 23:19,Female,27,Employee,sometimes,Maybe,no,in a relationship,no,Strong,middle class,Introvert,medium,No,No,No,no,losing weight,no,No,Yes,No,normal,Yes,mid night,Maybe,No,No,normal,Negative
+2019-9-20 23:22,Male,21,Student,sometimes,No,no,Single,yes,as usual,middle class,Introvert,medium,No,No,No,always,no change,no,Yes,Yes,No,Yes,Yes,afternoon,No,No,No,normal,Negative
+2019-9-20 23:28,Male,26,Student,no,Maybe,no,in a relationship,no,as usual,middle class,Introvert,medium,sometimes,No,No,sometimes,no change,yes,Yes,Yes,Maybe,No,Maybe,afternoon,Maybe,No,No,normal,Negative
+2019-9-20 23:31,Male,23,Student,no,Yes,no,in a relationship,yes,as usual,middle class,Extrovert,Strong,Yes,Yes,Yes,always,no change,yes,Yes,Yes,Yes,Yes,Yes,afternoon,Yes,Yes,No,No,Mild
+2019-9-20 23:35,Male,22,Student,no,Yes,no,Single,no,Strong,middle class,Introvert,medium,sometimes,No,No,sometimes,no change,no,No,Yes,No,normal,Maybe,afternoon,Maybe,No,No,No,Negative
+2019-9-20 23:35,Male,22,Student,no,Yes,no,in a relationship,yes,Strong,middle class,Extrovert,medium,No,Maybe,No,sometimes,gaining weight,yes,Yes,Yes,No,Yes,Maybe,afternoon,Yes,No,No,normal,Negative
+2019-9-20 23:36,Female,23,Student,no,Maybe,no,in a relationship,no,as usual,middle class,Introvert,medium,sometimes,Yes,sometimes,sometimes,gaining weight,no,No,Yes,No,Yes,Maybe,afternoon,Maybe,No,No,normal,Negative
+2019-9-20 23:43,Female,19,Student,sometimes,No,no,Single,yes,Strong,middle class,Introvert,medium,sometimes,Yes,sometimes,sometimes,gaining weight,yes,Yes,Yes,No,Yes,Yes,mid night,Maybe,Yes,No,No,Mild
+2019-9-20 23:45,Male,24,Student,sometimes,Maybe,no,in a relationship,no,Strong,middle class,Introvert,medium,No,No,No,no,no change,yes,No,No,No,Yes,Yes,Morning,No,No,No,No,Negative
+2019-9-20 23:48,Male,28,Employee,no,Maybe,no,Single,no,Strong,middle class,Extrovert,Strong,No,No,No,no,no change,no,No,No,No,Yes,Yes,Morning,No,No,Yes,No,Seasonal
+2019-9-20 23:49,Male,25,Student,yes,Maybe,no,in a relationship,yes,as usual,middle class,Introvert,medium,always,No,No,always,gaining weight,yes,Yes,No,Yes,No,No,mid night,Yes,Yes,No,No,Mild
+2019-9-20 23:53,Male,22,Student,no,No,no,in a relationship,yes,as usual,middle class,Extrovert,medium,sometimes,No,No,sometimes,no change,yes,Yes,No,No,Yes,Yes,mid night,No,Yes,No,No,Mild
+2019-9-20 23:59,Female,27,Employee,no,Yes,no,Single,no,as usual,middle class,Introvert,weak,sometimes,Yes,sometimes,sometimes,no change,no,No,Yes,No,Yes,Maybe,Morning,Yes,Yes,No,No,Mild
+2019-9-21 0:00,Male,22,Student,yes,Maybe,no,Single,yes,Strong,middle class,Extrovert,weak,sometimes,No,sometimes,sometimes,no change,no,Yes,Yes,Yes,Yes,No,mid night,Yes,Yes,No,No,Mild
+2019-9-21 0:09,Male,26,Employee,yes,Yes,no,Single,yes,as usual,middle class,Extrovert,medium,No,No,No,sometimes,no change,no,Maybe,Yes,No,Yes,No,mid night,No,No,No,normal,Negative
+2019-9-21 0:16,Female,29,Employee,sometimes,Maybe,no,Single,no,Strong,middle class,Introvert,medium,No,No,sometimes,sometimes,gaining weight,no,No,Yes,No,Yes,Yes,mid night,Maybe,No,No,normal,Negative
+2019-9-21 0:26,Female,27,Unemployee,yes,Yes,no,married,no,Strong,middle class,Extrovert,medium,Yes,Maybe,sometimes,sometimes,gaining weight,no,Yes,Yes,Maybe,Yes,Maybe,mid night,Yes,Yes,No,No,Mild
+2019-9-21 0:46,Male,22,Student,no,Yes,no,in a relationship,no,as usual,middle class,Extrovert,medium,Yes,Yes,No,sometimes,no change,yes,Yes,No,Yes,Yes,Maybe,mid night,Maybe,Yes,No,No,Moderate
+2019-9-21 0:46,Female,27,Employee,sometimes,No,no,married,no,Strong,middle class,Extrovert,medium,No,Yes,sometimes,sometimes,no change,no,Maybe,Yes,No,normal,Yes,afternoon,Maybe,No,No,normal,Negative
+2019-9-21 0:49,Male,21,Student,sometimes,Maybe,no,in a relationship,no,as usual,middle class,Introvert,medium,sometimes,Maybe,sometimes,sometimes,gaining weight,yes,Maybe,Yes,No,normal,Maybe,afternoon,Maybe,No,No,No,Negative
+2019-9-21 0:56,Male,23,Student,no,Maybe,no,Single,yes,as usual,middle class,Introvert,medium,No,No,No,no,no change,yes,No,Yes,No,No,Yes,afternoon,No,No,No,normal,Negative
+2019-9-21 1:04,Female,24,Employee,no,Maybe,no,in a relationship,no,Strong,middle class,Introvert,medium,sometimes,No,No,sometimes,no change,no,Maybe,No,No,normal,Yes,afternoon,No,Yes,No,Yes,Mild
+2019-9-21 1:08,Male,21,Student,sometimes,Maybe,no,Single,no,Strong,middle class,Introvert,medium,sometimes,No,sometimes,sometimes,no change,no,No,Yes,No,Yes,Maybe,mid night,Maybe,No,No,normal,Negative
+2019-9-21 1:09,Male,18,Student,sometimes,Maybe,no,Single,no,Strong,middle class,Introvert,medium,sometimes,Yes,No,sometimes,no change,no,Yes,No,No,Yes,Maybe,afternoon,Maybe,No,No,normal,Negative
+2019-9-21 1:11,Female,20,Student,yes,No,,Single,yes,as usual,middle class,Extrovert,medium,Yes,No,sometimes,sometimes,gaining weight,yes,Yes,No,No,Yes,Yes,mid night,Maybe,Yes,No,No,Mild
+2019-9-21 1:13,Male,24,Student,no,No,no,in a relationship,yes,as usual,middle class,Introvert,Strong,No,Yes,sometimes,no,gaining weight,no,Yes,No,No,Yes,Maybe,Morning,No,No,No,Yes,Moderate
+2019-9-21 1:16,Male,22,Student,yes,Yes,no,Single,no,Strong,middle class,Extrovert,medium,sometimes,No,sometimes,sometimes,gaining weight,yes,No,Yes,No,Yes,Yes,afternoon,Maybe,No,No,normal,Negative
+2019-9-21 1:49,Male,25,Employee,sometimes,Yes,no,in a relationship,no,as usual,middle class,Extrovert,medium,sometimes,Maybe,sometimes,sometimes,gaining weight,yes,Maybe,Yes,No,Yes,Maybe,mid night,Maybe,Yes,No,normal,Mild
+2019-9-21 2:01,Male,21,Student,no,No,no,Single,no,as usual,poor,Extrovert,medium,sometimes,No,No,no,no change,no,Yes,Yes,No,No,Yes,mid night,No,No,No,No,Negative
+2019-9-21 2:18,Female,21,Student,sometimes,Maybe,no,Single,no,Strong,middle class,Introvert,medium,Yes,No,sometimes,sometimes,gaining weight,yes,No,No,Maybe,normal,Maybe,mid night,No,Yes,Yes,No,Severe
+2019-9-21 2:20,Male,24,Unemployee,no,Yes,no,Single,no,as usual,poor,Extrovert,Strong,Yes,No,No,sometimes,losing weight,yes,No,Yes,No,No,No,mid night,No,No,No,No,Negative
+2019-9-21 2:23,Male,19,Student,yes,No,no,Single,no,as usual,middle class,Introvert,medium,Yes,No,sometimes,sometimes,no change,no,No,Yes,Maybe,Yes,Maybe,mid night,Maybe,No,Yes,normal,Seasonal
+2019-9-21 2:25,Male,20,Student,no,Yes,no,in a relationship,yes,as usual,middle class,Introvert,medium,No,No,No,no,gaining weight,yes,Yes,Yes,No,Yes,Yes,afternoon,No,No,No,normal,Negative
+2019-9-21 2:28,Male,23,Student,yes,No,no,in a complicated relationship,yes,as usual,poor,Extrovert,medium,Yes,Yes,No,no,no change,no,Yes,Yes,Yes,Yes,Yes,mid night,No,No,Yes,No,Seasonal
+2019-9-21 2:28,Male,21,Student,no,Yes,no,Single,yes,Strong,well-off,Introvert,medium,sometimes,No,Yes,sometimes,gaining weight,no,Yes,Yes,Maybe,Yes,Maybe,mid night,No,Yes,No,No,Mild
+2019-9-21 2:29,Female,22,Student,yes,Maybe,no,in a complicated relationship,yes,as usual,poor,Extrovert,Strong,sometimes,Yes,Yes,sometimes,losing weight,no,Yes,Yes,Yes,Yes,No,mid night,Yes,Yes,Yes,normal,Severe
+2019-9-21 2:48,Male,24,Employee,no,Yes,yes,Single,no,Strong,well-off,Introvert,medium,sometimes,Yes,No,sometimes,gaining weight,yes,Maybe,No,No,No,Yes,mid night,No,Yes,No,Yes,Mild
+2019-9-21 2:53,Female,23,Student,no,Maybe,no,in a relationship,yes,Strong,middle class,Introvert,weak,No,No,No,sometimes,no change,no,Maybe,Yes,No,Yes,Maybe,Morning,Maybe,Yes,No,No,Mild
+2019-9-21 2:53,Female,23,Student,no,Maybe,no,in a relationship,yes,Strong,middle class,Introvert,weak,No,No,No,sometimes,no change,no,Maybe,Yes,No,Yes,Maybe,Morning,Maybe,Yes,No,No,Mild
+2019-9-21 3:04,Male,23,Student,sometimes,Yes,no,in a relationship,no,Strong,middle class,Introvert,Strong,No,No,No,sometimes,gaining weight,no,No,Yes,No,No,Yes,mid night,Maybe,No,No,Yes,Negative
+2019-9-21 3:08,Male,23,Student,no,Maybe,no,Single,yes,Strong,middle class,Introvert,weak,sometimes,Yes,No,sometimes,gaining weight,yes,Yes,No,No,No,Yes,mid night,No,No,No,normal,Negative
+2019-9-21 3:08,Male,23,Student,no,Yes,no,Single,no,Strong,middle class,Introvert,medium,sometimes,No,No,no,no change,yes,Yes,Yes,No,normal,No,mid night,Maybe,No,No,No,Negative
+2019-9-21 3:08,Female,25,Unemployee,sometimes,Maybe,no,in a relationship,no,as usual,middle class,Introvert,weak,Yes,No,sometimes,sometimes,no change,yes,Yes,Yes,Yes,Yes,Yes,mid night,Maybe,Yes,No,No,Mild
+2019-9-21 3:10,Female,24,Student,no,Maybe,no,Single,no,Strong,middle class,Introvert,weak,No,Yes,No,always,gaining weight,no,No,Yes,No,Yes,Yes,mid night,No,No,No,No,Negative
+2019-9-21 3:45,Female,24,Student,no,Maybe,no,Single,no,Strong,middle class,Introvert,medium,No,No,No,no,gaining weight,no,No,No,No,No,Maybe,afternoon,No,No,No,Yes,Negative
+2019-9-21 3:48,Female,20,Student,yes,No,no,Single,no,as usual,well-off,Introvert,weak,Yes,Yes,Yes,always,no change,no,Yes,Yes,Yes,Yes,No,mid night,Yes,Yes,No,No,Moderate
+2019-9-21 4:02,Male,22,Student,no,Yes,no,in a relationship,no,Strong,middle class,Introvert,Strong,sometimes,Yes,sometimes,sometimes,no change,no,Yes,Yes,No,Yes,Yes,afternoon,No,No,No,No,Negative
+2019-9-21 4:45,Male,23,Student,yes,Maybe,no,Single,yes,as usual,middle class,Introvert,medium,sometimes,Yes,sometimes,sometimes,no change,no,Yes,Yes,No,Yes,Maybe,mid night,Maybe,Yes,Yes,No,Severe
+2019-9-21 5:10,Female,22,Student,sometimes,Maybe,no,married,yes,Strong,middle class,Introvert,medium,sometimes,Maybe,No,sometimes,gaining weight,yes,No,No,Maybe,normal,Yes,afternoon,Maybe,No,No,Yes,Negative
+2019-9-21 5:12,Female,30,Student,no,Yes,no,Single,yes,Strong,middle class,Introvert,medium,Yes,No,No,sometimes,gaining weight,yes,No,Yes,No,Yes,No,afternoon,Maybe,Yes,No,normal,Mild
+2019-9-21 5:31,Female,22,Student,yes,No,no,in a complicated relationship,yes,Strong,well-off,Introvert,medium,Yes,Yes,Yes,always,losing weight,no,Yes,Yes,Maybe,Yes,Yes,mid night,Maybe,Yes,No,No,Mild
+2019-9-21 5:50,Male,26,Unemployee,sometimes,No,no,in a relationship,no,Strong,well-off,Extrovert,Strong,sometimes,No,No,no,no change,yes,Yes,Yes,No,Yes,Yes,mid night,Maybe,Yes,No,No,Mild
+2019-9-21 6:49,Male,25,Employee,sometimes,Maybe,no,Single,yes,Strong,middle class,Introvert,medium,always,Yes,No,sometimes,no change,yes,Yes,Yes,Maybe,normal,No,mid night,Maybe,No,No,Yes,Negative
+2019-9-21 7:07,Female,21,Student,yes,No,no,Single,no,Strong,middle class,Extrovert,medium,sometimes,No,No,no,no change,no,Maybe,No,No,normal,Yes,mid night,No,No,No,No,Negative
+2019-9-21 7:10,Male,23,Student,no,No,no,Single,no,Strong,well-off,Introvert,medium,Yes,No,No,no,no change,no,No,Yes,No,No,Yes,Morning,No,No,No,No,Negative
+2019-9-21 7:37,Male,29,Student,no,No,no,married,no,Strong,middle class,Introvert,medium,sometimes,No,No,sometimes,losing weight,no,No,No,No,normal,Yes,afternoon,No,No,No,normal,Negative
+2019-9-21 8:04,Female,22,Student,sometimes,Maybe,no,Single,yes,as usual,middle class,Introvert,medium,sometimes,Maybe,sometimes,sometimes,no change,no,Maybe,Yes,No,Yes,Maybe,mid night,No,No,No,No,Negative
+2019-9-21 8:25,Male,27,Employee,no,Yes,no,Single,no,as usual,poor,Introvert,medium,No,No,No,sometimes,gaining weight,no,Yes,Yes,No,No,Yes,mid night,Maybe,No,No,Yes,Negative
+2019-9-21 8:58,Male,23,Student,sometimes,Maybe,no,Single,yes,as usual,middle class,Introvert,weak,sometimes,Yes,Yes,always,no change,yes,Yes,Yes,No,normal,Yes,Morning,Yes,Yes,No,normal,Moderate
+2019-9-21 9:27,Male,30,Student,no,No,no,married,no,Strong,middle class,Extrovert,medium,sometimes,No,No,sometimes,no change,no,No,Yes,No,Yes,Yes,afternoon,Maybe,No,No,Yes,Negative
+2019-9-21 9:37,Female,24,Employee,sometimes,No,no,Single,yes,as usual,middle class,Introvert,weak,sometimes,No,sometimes,sometimes,gaining weight,yes,Yes,Yes,Maybe,normal,Maybe,mid night,Yes,No,Yes,normal,Moderate
+2019-9-21 9:55,Male,21,Student,no,No,no,in a relationship,no,Strong,middle class,Extrovert,medium,No,No,sometimes,sometimes,no change,yes,No,No,No,Yes,Yes,afternoon,No,No,No,Yes,Negative
+2019-9-21 10:23,Male,26,Unemployee,yes,Maybe,no,in a relationship,yes,Weak,middle class,Extrovert,medium,Yes,Yes,sometimes,sometimes,gaining weight,no,Yes,No,Maybe,normal,No,mid night,Yes,Yes,No,normal,Moderate
+2019-9-21 10:34,Male,24,Unemployee,no,Yes,no,Single,no,Strong,middle class,Extrovert,Strong,Yes,No,No,no,gaining weight,yes,Yes,No,Maybe,No,Maybe,Morning,No,No,No,normal,Negative
+2019-9-21 10:38,Male,24,Employee,no,Maybe,no,Single,yes,Strong,middle class,Extrovert,Strong,sometimes,No,No,sometimes,no change,yes,Maybe,Yes,No,normal,No,Morning,No,Yes,No,normal,Mild
+2019-9-21 10:54,Female,22,Student,no,Maybe,no,Single,no,as usual,well-off,Introvert,medium,No,Yes,No,no,no change,yes,No,No,No,Yes,Yes,mid night,No,No,No,Yes,Negative
+2019-9-21 11:31,Male,21,Student,no,No,no,Single,no,as usual,middle class,Introvert,medium,No,No,No,no,losing weight,yes,No,No,No,normal,Yes,Morning,No,No,No,No,Negative
+2019-9-21 12:16,Male,21,Student,no,Maybe,no,in a relationship,yes,Strong,middle class,Extrovert,Strong,No,No,No,no,no change,no,No,No,No,Yes,Maybe,Morning,No,No,No,normal,Negative
+2019-9-21 12:49,Male,24,Student,no,Maybe,yes,Single,no,Strong,middle class,Extrovert,medium,No,No,No,no,losing weight,no,Yes,Yes,No,No,Yes,mid night,Yes,No,No,Yes,Negative
+2019-9-21 12:51,Male,21,Student,sometimes,Maybe,no,in a relationship,no,as usual,middle class,Introvert,medium,sometimes,No,Yes,sometimes,no change,no,Maybe,Yes,Maybe,normal,Yes,mid night,Maybe,No,No,normal,Negative
+2019-9-21 13:42,Male,24,Unemployee,sometimes,No,no,Single,no,Strong,middle class,Introvert,weak,sometimes,No,No,sometimes,gaining weight,yes,Yes,No,No,Yes,Maybe,afternoon,No,No,No,normal,Negative
+2019-9-21 14:10,Male,22,Unemployee,sometimes,Maybe,no,in a relationship,yes,as usual,poor,Extrovert,medium,sometimes,No,sometimes,sometimes,no change,yes,Maybe,Yes,Maybe,normal,Maybe,mid night,Maybe,Yes,No,normal,Mild
+2019-9-21 14:50,Male,24,Unemployee,yes,No,no,in a complicated relationship,yes,as usual,middle class,,medium,sometimes,Maybe,No,sometimes,losing weight,no,Maybe,Yes,Maybe,normal,Maybe,mid night,Maybe,Yes,No,No,Mild
+2019-9-21 15:14,Male,25,Employee,no,No,no,in a relationship,no,Strong,middle class,Extrovert,medium,sometimes,No,No,sometimes,no change,yes,Yes,No,No,normal,Yes,mid night,Maybe,No,No,Yes,Negative
+2019-9-21 15:17,Female,23,Student,no,Maybe,no,in a relationship,no,as usual,poor,Introvert,medium,No,No,No,no,no change,yes,Maybe,Yes,No,Yes,Maybe,mid night,Maybe,No,No,No,Negative
+2019-9-21 15:39,Male,19,Student,no,No,no,in a relationship,no,Strong,poor,Extrovert,Strong,Yes,No,No,sometimes,losing weight,no,Yes,Yes,Yes,normal,Maybe,mid night,Yes,Yes,No,No,Mild
+2019-9-21 17:01,Female,20,Student,no,Maybe,no,Single,yes,Strong,middle class,Introvert,medium,Yes,No,sometimes,sometimes,gaining weight,no,Maybe,Yes,Maybe,No,No,mid night,No,Yes,No,No,Negative
+2019-9-21 18:24,Female,22,Student,no,Maybe,no,in a relationship,no,Strong,well-off,Extrovert,medium,No,Yes,No,sometimes,gaining weight,yes,No,No,No,normal,Yes,mid night,No,No,No,Yes,Negative
+2019-9-21 18:26,Male,19,Student,yes,No,no,Single,yes,Strong,middle class,Extrovert,Strong,Yes,No,Yes,sometimes,gaining weight,yes,Yes,Yes,Yes,Yes,Yes,mid night,Yes,Yes,No,No,Mild
+2019-9-21 19:28,Male,23,Student,sometimes,No,no,in a complicated relationship,no,Strong,middle class,Introvert,medium,No,No,sometimes,sometimes,gaining weight,no,Yes,No,No,normal,Yes,mid night,No,No,No,normal,Negative
+2019-9-21 19:32,Male,26,Employee,no,No,no,in a relationship,yes,Strong,middle class,Introvert,medium,No,No,No,no,no change,yes,No,Yes,No,Yes,Yes,mid night,No,No,No,Yes,Negative
+2019-9-21 19:32,Male,21,Student,sometimes,Maybe,no,Single,yes,as usual,middle class,Extrovert,medium,sometimes,No,No,sometimes,no change,yes,Yes,Yes,Yes,Yes,Maybe,afternoon,Maybe,Yes,No,No,Mild
+2019-9-21 20:28,Female,24,Unemployee,yes,Maybe,no,Single,yes,Strong,middle class,Introvert,medium,No,Yes,No,sometimes,gaining weight,yes,Yes,Yes,No,Yes,Yes,mid night,Maybe,Yes,No,No,Mild
+2019-9-21 20:28,Female,24,Employee,yes,Maybe,no,in a complicated relationship,yes,Strong,middle class,Introvert,medium,sometimes,Yes,Yes,always,no change,yes,Yes,Yes,No,No,No,afternoon,Yes,No,No,Yes,Negative
+2019-9-21 22:11,Male,24,Student,no,Yes,no,Single,no,Strong,middle class,Introvert,medium,No,No,No,sometimes,no change,no,No,Yes,No,normal,No,mid night,Maybe,No,No,Yes,Negative
+2019-9-21 22:51,Female,21,Student,no,Yes,no,Single,yes,Strong,middle class,Extrovert,medium,Yes,Yes,No,sometimes,losing weight,no,Yes,Yes,No,Yes,No,mid night,Yes,Yes,No,No,Mild
+2019-9-21 22:52,Female,21,Student,yes,Maybe,no,in a relationship,no,Weak,well-off,Introvert,medium,Yes,Yes,Yes,sometimes,gaining weight,yes,Yes,Yes,Yes,Yes,Yes,mid night,Maybe,Yes,Yes,No,Severe
+2019-9-21 22:53,Male,19,Student,sometimes,No,no,in a complicated relationship,no,Strong,middle class,Extrovert,medium,sometimes,Maybe,sometimes,sometimes,no change,yes,Maybe,No,Maybe,Yes,Maybe,mid night,Maybe,Yes,No,normal,Mild
+2019-9-21 23:01,Female,19,Student,no,Yes,no,Single,yes,Strong,middle class,Extrovert,medium,sometimes,Maybe,sometimes,sometimes,no change,yes,Yes,Yes,No,normal,Maybe,mid night,Maybe,No,Yes,No,Mild
+2019-9-21 23:05,Female,22,Student,sometimes,No,no,in a complicated relationship,no,Strong,middle class,Introvert,medium,No,No,No,no,no change,yes,No,Yes,No,normal,Yes,mid night,No,No,No,Yes,Negative
+2019-9-21 23:11,Male,22,Student,yes,Maybe,no,Single,no,Strong,middle class,Extrovert,medium,No,No,No,no,losing weight,no,No,Yes,No,normal,Yes,Morning,Maybe,No,No,No,Negative
+2019-9-21 23:14,Male,20,Student,no,Maybe,no,Single,no,Strong,middle class,Introvert,Strong,Yes,No,No,no,no change,no,Yes,Yes,No,Yes,Yes,afternoon,No,No,No,No,Negative
+2019-9-21 23:15,Male,19,Student,sometimes,Maybe,no,Single,no,Strong,well-off,Introvert,medium,sometimes,No,No,sometimes,losing weight,yes,Maybe,Yes,No,Yes,Maybe,mid night,Maybe,Yes,No,normal,Mild
+2019-9-21 23:15,Male,23,Student,yes,Maybe,yes,Single,yes,Strong,middle class,Extrovert,medium,sometimes,Yes,sometimes,always,no change,no,Yes,Yes,Maybe,normal,Yes,mid night,Maybe,No,No,No,Negative
+2019-9-21 23:18,Male,23,Student,yes,Yes,no,Single,no,Strong,well-off,Introvert,Strong,sometimes,Yes,Yes,always,gaining weight,yes,Yes,Yes,No,Yes,Yes,afternoon,Yes,Yes,No,normal,Seasonal
+2019-9-21 23:21,Male,19,Employee,yes,Maybe,yes,Single,no,Weak,well-off,Introvert,medium,always,Yes,Yes,sometimes,no change,no,Yes,No,Yes,Yes,No,mid night,No,Yes,Yes,normal,Severe
+2019-9-21 23:21,Male,18,Student,sometimes,Maybe,no,Single,yes,as usual,middle class,Introvert,medium,sometimes,No,sometimes,sometimes,gaining weight,yes,Yes,Yes,No,normal,No,mid night,No,Yes,No,No,Mild
+2019-9-21 23:23,Male,20,Student,sometimes,Maybe,no,Single,no,as usual,well-off,Introvert,medium,sometimes,No,No,sometimes,losing weight,yes,No,Yes,Maybe,Yes,Yes,mid night,No,No,No,No,Negative
+2019-9-21 23:24,Male,21,Student,no,Maybe,no,Single,yes,Strong,middle class,,medium,sometimes,No,sometimes,sometimes,gaining weight,yes,Maybe,Yes,No,Yes,Maybe,Morning,Maybe,Yes,No,No,Mild
+2019-9-21 23:24,Male,21,Student,no,Yes,yes,Single,yes,Strong,middle class,Extrovert,Strong,sometimes,No,No,sometimes,no change,no,Yes,Yes,Yes,Yes,No,Morning,Maybe,Yes,No,No,Mild
+2019-9-21 23:24,Female,21,Student,yes,Yes,no,in a complicated relationship,yes,Weak,well-off,Introvert,medium,sometimes,Yes,sometimes,sometimes,losing weight,no,Yes,Yes,No,Yes,No,Morning,Maybe,Yes,No,No,Mild
+2019-9-21 23:25,Female,21,Student,yes,Maybe,no,in a complicated relationship,no,Strong,middle class,Extrovert,Strong,always,Yes,Every night,sometimes,losing weight,no,Yes,Yes,Maybe,Yes,No,mid night,Maybe,Yes,No,No,Moderate
+2019-9-21 23:26,Female,21,Student,sometimes,No,no,in a relationship,no,Strong,middle class,Extrovert,medium,sometimes,No,sometimes,no,gaining weight,yes,Maybe,Yes,No,normal,Yes,mid night,No,No,No,normal,Negative
+2019-9-21 23:26,Male,22,Student,sometimes,Maybe,no,in a relationship,yes,Strong,middle class,Extrovert,medium,sometimes,Yes,sometimes,sometimes,no change,no,Yes,Yes,No,Yes,No,mid night,Maybe,No,No,normal,Negative
+2019-9-21 23:29,Female,22,Student,sometimes,Maybe,no,in a relationship,no,as usual,middle class,Introvert,medium,No,Maybe,sometimes,no,gaining weight,no,No,No,No,Yes,Yes,mid night,No,No,No,No,Negative
+2019-9-21 23:30,Female,21,Student,yes,Yes,no,in a complicated relationship,yes,as usual,well-off,Extrovert,medium,sometimes,No,sometimes,sometimes,losing weight,no,Yes,Yes,Yes,Yes,Maybe,mid night,Yes,Yes,Yes,No,Severe
+2019-9-21 23:35,Male,21,Student,sometimes,Maybe,yes,in a complicated relationship,no,as usual,well-off,Extrovert,weak,sometimes,Yes,sometimes,sometimes,gaining weight,yes,Yes,Yes,Maybe,Yes,No,afternoon,Maybe,Yes,No,No,Moderate
+2019-9-21 23:35,Male,19,Student,sometimes,Maybe,no,Single,no,Strong,middle class,Extrovert,Strong,sometimes,No,No,sometimes,losing weight,yes,No,No,No,normal,Yes,mid night,Maybe,Yes,No,No,Mild
+2019-9-21 23:36,Female,21,Student,no,Maybe,no,Single,yes,Strong,well-off,,medium,sometimes,Yes,No,sometimes,no change,no,Yes,Yes,Maybe,Yes,Maybe,mid night,Maybe,Yes,No,No,Moderate
+2019-9-22 0:21,Female,23,Student,no,No,no,in a relationship,yes,as usual,middle class,Introvert,medium,sometimes,No,sometimes,sometimes,gaining weight,no,Yes,Yes,Maybe,Yes,Yes,afternoon,Yes,Yes,No,normal,Mild
+2019-9-22 0:37,Male,32,Employee,yes,Yes,no,married,yes,Strong,middle class,Introvert,medium,sometimes,No,sometimes,sometimes,gaining weight,yes,No,Yes,No,Yes,Yes,afternoon,No,No,No,No,Negative
+2019-9-22 0:55,Male,26,Employee,sometimes,Maybe,no,Single,yes,as usual,middle class,Introvert,weak,sometimes,No,No,sometimes,no change,no,No,Yes,No,normal,Yes,Morning,Maybe,Yes,No,normal,Mild
+2019-9-22 0:55,Male,21,Student,no,Maybe,no,Single,yes,Strong,middle class,Introvert,medium,No,Maybe,No,sometimes,gaining weight,no,No,No,No,No,Yes,afternoon,Maybe,No,No,Yes,Negative
+2019-9-22 0:59,Male,19,Student,sometimes,No,no,Single,no,as usual,middle class,Introvert,medium,sometimes,Yes,No,sometimes,no change,yes,Yes,No,No,Yes,Yes,mid night,Maybe,No,No,normal,Negative
+2019-9-22 1:21,Female,22,Student,sometimes,Yes,yes,Single,no,as usual,middle class,Extrovert,medium,No,No,No,no,no change,no,Maybe,Yes,No,normal,Maybe,mid night,Maybe,No,No,normal,Negative
+2019-9-22 2:07,Male,21,Student,yes,Yes,yes,Single,yes,Weak,middle class,Extrovert,Strong,Yes,Yes,No,always,losing weight,no,Yes,Yes,Yes,normal,No,mid night,Maybe,Yes,Yes,normal,Severe
+2019-9-22 2:26,Male,24,Student,yes,Yes,no,Single,yes,Strong,middle class,Introvert,weak,sometimes,Yes,Yes,always,gaining weight,no,Yes,Yes,Yes,normal,Maybe,mid night,Yes,Yes,No,normal,Moderate
+2019-9-22 2:32,Female,22,Student,no,Yes,no,in a relationship,yes,as usual,middle class,Introvert,medium,Yes,Yes,sometimes,always,gaining weight,no,Yes,Yes,Maybe,Yes,No,afternoon,Maybe,No,No,normal,Mild
+2019-9-22 6:04,Female,22,Student,no,No,no,in a relationship,yes,Strong,middle class,Introvert,medium,sometimes,Maybe,No,no,no change,yes,Yes,No,No,Yes,No,Morning,Yes,Yes,No,No,Mild
+2019-9-22 8:42,Male,23,Student,no,Yes,no,in a relationship,no,Strong,middle class,Extrovert,medium,sometimes,No,sometimes,no,gaining weight,yes,No,Yes,No,No,Yes,afternoon,No,No,No,No,Negative
+2019-9-22 9:42,Female,23,Employee,no,No,no,in a relationship,no,as usual,poor,,medium,No,No,No,sometimes,no change,yes,No,Yes,No,No,Maybe,mid night,No,Yes,No,normal,Mild
+2019-9-22 10:30,Male,24,Student,no,Yes,no,Single,yes,as usual,middle class,Introvert,medium,always,Maybe,Yes,sometimes,losing weight,yes,Yes,Yes,Yes,Yes,No,mid night,Yes,Yes,No,No,Moderate
+2019-9-22 11:07,Male,21,Student,no,No,no,Single,yes,as usual,middle class,Extrovert,medium,sometimes,Yes,sometimes,sometimes,losing weight,no,Maybe,Yes,No,Yes,Maybe,Morning,Yes,No,No,No,Negative
+2019-9-22 12:46,Female,23,Student,yes,Maybe,no,Single,yes,Strong,middle class,Introvert,medium,sometimes,No,sometimes,sometimes,losing weight,no,Yes,Yes,No,normal,Yes,Morning,Maybe,Yes,No,normal,Mild
+2019-9-22 13:28,Female,23,Student,no,No,no,married,no,Strong,middle class,Extrovert,medium,sometimes,No,No,sometimes,no change,yes,Maybe,Yes,No,Yes,Maybe,mid night,No,Yes,No,No,Mild
+2019-9-22 18:41,Female,23,Student,yes,No,no,Single,no,Strong,middle class,Extrovert,medium,sometimes,No,sometimes,sometimes,no change,yes,No,Yes,No,Yes,Yes,afternoon,Yes,Yes,No,No,Mild
+2019-9-23 0:25,Male,22,Student,no,Maybe,no,Single,no,Strong,well-off,Introvert,medium,No,Yes,No,sometimes,no change,yes,No,No,No,Yes,Maybe,mid night,No,No,No,Yes,Negative
+2019-9-23 0:36,Male,28,Employee,no,Yes,no,in a relationship,no,as usual,middle class,Extrovert,Strong,No,No,No,no,gaining weight,yes,No,Yes,No,Yes,Yes,Morning,Yes,No,No,Yes,Negative
+2019-9-23 5:40,Female,21,Student,yes,No,no,in a relationship,no,as usual,middle class,Introvert,medium,sometimes,Yes,sometimes,sometimes,losing weight,yes,Yes,Yes,Maybe,normal,No,afternoon,Maybe,Yes,Yes,normal,Severe
+2019-9-23 11:29,Male,31,Employee,no,No,no,married,no,Strong,middle class,Introvert,medium,No,No,No,no,no change,no,No,No,No,No,Yes,Morning,No,No,No,Yes,Negative
+2019-9-23 11:41,Female,20,Student,sometimes,Maybe,no,in a relationship,no,Strong,middle class,Extrovert,Strong,sometimes,No,No,no,no change,no,Yes,Yes,No,normal,No,afternoon,Yes,No,No,normal,Negative
+2019-9-23 12:55,Female,23,Unemployee,sometimes,Maybe,no,in a relationship,yes,Strong,middle class,Extrovert,medium,No,Yes,No,sometimes,no change,yes,Yes,Yes,No,normal,Yes,Morning,No,No,No,No,Negative
+2019-9-23 20:05,Female,25,Student,sometimes,Maybe,no,married,yes,as usual,middle class,Extrovert,medium,Yes,No,No,sometimes,gaining weight,yes,No,Yes,Maybe,No,Maybe,mid night,No,No,No,normal,Negative
+2019-9-23 22:45,Male,23,Employee,yes,No,no,Single,yes,as usual,middle class,Extrovert,medium,Yes,Yes,No,sometimes,no change,no,Yes,Yes,No,normal,Yes,mid night,Maybe,Yes,No,Yes,Mild
+2019-9-24 7:41,Female,24,Student,sometimes,Maybe,no,in a relationship,yes,Strong,well-off,Introvert,medium,Yes,Yes,sometimes,sometimes,no change,no,Yes,Yes,Yes,Yes,Maybe,mid night,No,Yes,Yes,No,Severe
+2019-9-24 11:24,Female,21,Student,no,No,no,in a relationship,yes,Strong,middle class,Introvert,medium,sometimes,Yes,sometimes,sometimes,no change,yes,Yes,Yes,Maybe,Yes,Yes,afternoon,No,Yes,No,No,Moderate
+2019-9-24 13:36,Female,22,Student,yes,Yes,no,Single,no,as usual,middle class,Introvert,weak,always,Yes,sometimes,always,no change,yes,Yes,Yes,Yes,Yes,Maybe,mid night,Yes,Yes,No,No,Moderate
+2019-9-24 15:37,Female,21,Student,yes,No,no,in a complicated relationship,no,as usual,middle class,Introvert,medium,Yes,Yes,Yes,always,no change,yes,Yes,Yes,Yes,Yes,No,mid night,Maybe,Yes,Yes,No,Severe
+2019-9-25 0:37,Female,26,Unemployee,yes,No,no,,no,Strong,well-off,Introvert,weak,Yes,Yes,Yes,sometimes,no change,no,Yes,Yes,Yes,Yes,Yes,mid night,Maybe,Yes,No,No,Moderate
+2019-9-25 18:17,Female,22,Student,sometimes,Yes,no,in a relationship,yes,as usual,middle class,Extrovert,weak,Yes,Yes,sometimes,always,losing weight,yes,Yes,Yes,Yes,Yes,No,afternoon,Yes,Yes,Yes,No,Severe
+2019-9-25 20:27,Male,22,Student,sometimes,Maybe,no,in a relationship,yes,as usual,middle class,Extrovert,medium,sometimes,Maybe,No,no,no change,no,No,Yes,No,normal,Yes,afternoon,No,No,No,No,Negative
+2019-9-26 12:34,Female,23,Student,sometimes,Maybe,no,married,yes,as usual,middle class,Introvert,medium,sometimes,Maybe,No,no,gaining weight,no,Yes,Yes,Maybe,normal,Maybe,afternoon,Maybe,Yes,No,normal,Mild
+2019-9-26 12:34,Female,23,Student,sometimes,Maybe,no,married,yes,as usual,middle class,Introvert,medium,sometimes,Maybe,No,no,gaining weight,no,Yes,Yes,Maybe,normal,Maybe,afternoon,Maybe,Yes,No,normal,Mild
+2019-9-26 12:35,Female,23,Student,sometimes,Maybe,no,married,yes,as usual,middle class,Introvert,medium,sometimes,Maybe,No,no,gaining weight,no,Yes,Yes,Maybe,normal,Maybe,afternoon,Maybe,Yes,No,normal,Mild
+2019-9-26 12:37,Female,23,Student,no,Maybe,no,married,yes,as usual,middle class,Introvert,medium,sometimes,Maybe,No,no,gaining weight,no,Yes,Yes,Maybe,normal,Maybe,afternoon,Maybe,Yes,No,normal,Mild
+2019-9-26 20:23,Male,23,Student,no,Yes,no,in a complicated relationship,yes,Strong,well-off,Introvert,medium,No,Yes,No,no,no change,no,No,Yes,No,Yes,Yes,Morning,No,No,Yes,No,Negative
+2019-9-28 8:32,Female,24,Student,sometimes,Maybe,no,in a relationship,yes,as usual,middle class,Extrovert,medium,sometimes,Yes,sometimes,sometimes,no change,yes,Yes,Yes,Yes,Yes,No,mid night,Yes,Yes,No,Yes,Moderate
+2019-9-30 23:38,Female,24,Student,no,Maybe,no,Single,no,Strong,middle class,Introvert,medium,No,Yes,No,sometimes,no change,no,No,No,No,normal,Yes,mid night,No,No,No,normal,Negative
+2019-10-1 2:34,Male,27,Employee,yes,No,yes,Single,,as usual,poor,Introvert,weak,Yes,Yes,No,sometimes,no change,no,No,Yes,No,Yes,Yes,mid night,No,No,No,Yes,Negative
+2019-10-2 2:47,Female,23,Unemployee,no,Yes,no,in a complicated relationship,yes,as usual,middle class,Introvert,weak,sometimes,Yes,sometimes,sometimes,gaining weight,no,Yes,Yes,No,normal,Maybe,mid night,Yes,Yes,No,normal,Mild
+2019-10-27 23:41,Female,23,Student,sometimes,Maybe,no,Single,yes,Strong,middle class,Introvert,medium,Yes,Yes,Yes,always,no change,no,Yes,Yes,Yes,normal,Yes,mid night,Yes,Yes,No,No,Moderate
+2019-11-3 22:11,Female,21,Student,no,Maybe,no,Single,no,Strong,middle class,Introvert,medium,sometimes,No,No,sometimes,losing weight,yes,Yes,Yes,No,Yes,Maybe,mid night,No,No,No,No,Negative
+2019-11-17 19:38,Female,21,Student,no,Yes,no,Single,yes,as usual,middle class,Introvert,medium,Yes,No,No,sometimes,gaining weight,no,Yes,Yes,Yes,normal,Maybe,afternoon,No,Yes,No,No,Mild
+2019-12-12 0:49,Male,19,Student,sometimes,Yes,no,Single,yes,as usual,middle class,Introvert,medium,sometimes,No,sometimes,sometimes,gaining weight,no,No,Yes,Maybe,normal,Yes,mid night,Maybe,Yes,No,normal,Mild
+2020-3-7 0:42,Female,24,Student,sometimes,Maybe,yes,in a relationship,no,as usual,well-off,Extrovert,medium,No,Maybe,No,no,no change,no,Maybe,No,No,normal,Maybe,mid night,No,No,No,No,Negative
+2020-3-7 3:52,Female,23,Student,yes,Yes,no,in a complicated relationship,yes,as usual,middle class,Extrovert,medium,sometimes,Yes,Yes,sometimes,losing weight,no,No,Yes,Yes,Yes,No,mid night,Yes,Yes,Yes,No,Severe
+2020-6-18 21:34,Female,23,Student,yes,Maybe,no,in a relationship,no,as usual,poor,Introvert,medium,sometimes,Yes,sometimes,sometimes,no change,no,No,Yes,Maybe,No,No,mid night,Maybe,No,Yes,normal,Negative
+2020-8-8 8:43,Female,24,,no,Maybe,no,Single,yes,Strong,well-off,Extrovert,medium,sometimes,No,sometimes,no,gaining weight,yes,No,No,No,normal,Maybe,afternoon,Maybe,No,No,normal,Negative
+2020-8-8 9:38,Male,29,Employee,no,No,no,married,no,as usual,middle class,Extrovert,medium,No,No,No,sometimes,gaining weight,no,No,Yes,No,Yes,Yes,afternoon,No,Yes,No,Yes,Mild
+2020-8-8 10:27,Female,23,Student,yes,No,no,Single,no,as usual,well-off,Introvert,medium,No,No,No,always,no change,no,Yes,No,No,Yes,Maybe,Morning,No,No,No,Yes,Negative
+2020-8-8 13:26,Female,23,Student,sometimes,Yes,no,in a relationship,no,Strong,middle class,Extrovert,Strong,sometimes,Yes,sometimes,sometimes,no change,yes,Yes,Yes,Maybe,Yes,Maybe,mid night,No,No,No,normal,Seasonal
+2020-8-8 13:51,Male,22,Student,yes,Yes,yes,Single,yes,Weak,middle class,,medium,Yes,Yes,Yes,always,gaining weight,yes,Yes,Yes,Yes,No,No,mid night,Yes,Yes,Yes,No,Severe
+2020-8-8 13:52,Female,22,Student,no,Maybe,no,in a relationship,no,Strong,middle class,Extrovert,medium,sometimes,No,No,sometimes,gaining weight,yes,Maybe,No,No,normal,No,mid night,Maybe,No,No,No,Negative
+2020-8-8 13:52,Male,17,Student,no,No,no,Single,yes,Strong,well-off,Introvert,weak,No,No,No,sometimes,gaining weight,yes,Yes,No,No,Yes,Yes,mid night,Yes,No,No,normal,Negative
+2020-8-8 13:53,Female,23,Student,sometimes,Yes,no,in a complicated relationship,yes,as usual,middle class,Introvert,weak,Yes,Maybe,sometimes,sometimes,gaining weight,yes,Yes,Yes,Maybe,normal,No,mid night,Maybe,Yes,No,normal,Mild
+2020-8-8 13:59,Female,22,Student,yes,Yes,no,Single,yes,Strong,poor,Extrovert,medium,sometimes,Yes,No,sometimes,no change,no,No,Yes,No,normal,Yes,mid night,Maybe,Yes,No,normal,Mild
+2020-8-8 14:01,Female,23,Student,sometimes,Yes,no,Single,yes,Strong,middle class,Introvert,weak,sometimes,No,No,always,gaining weight,no,Maybe,Yes,Yes,normal,Maybe,mid night,Yes,No,No,normal,Negative
+2020-8-8 14:04,Female,22,Student,yes,Yes,no,Single,yes,as usual,middle class,Introvert,medium,Yes,Yes,Yes,always,gaining weight,yes,Yes,Yes,Yes,No,No,mid night,No,Yes,No,No,Mild
+2020-8-8 14:15,Female,23,Student,yes,No,no,Single,no,Strong,middle class,Introvert,medium,No,No,No,no,no change,no,No,No,No,No,Yes,mid night,No,No,No,No,Negative
+2020-8-8 14:55,Female,22,Student,yes,Yes,no,in a relationship,yes,Weak,middle class,Introvert,weak,sometimes,Maybe,Yes,always,gaining weight,no,Maybe,Yes,Yes,normal,Yes,mid night,Yes,Yes,Yes,normal,Severe
+2020-8-8 15:03,Female,23,Student,sometimes,No,no,in a relationship,no,Strong,middle class,Extrovert,medium,No,Yes,sometimes,sometimes,no change,yes,Maybe,No,No,normal,Yes,mid night,Maybe,No,No,normal,Negative
+2020-8-8 15:44,Female,23,Student,no,Maybe,no,in a relationship,yes,Strong,well-off,Extrovert,medium,No,Yes,sometimes,no,losing weight,yes,Yes,Yes,No,No,Yes,mid night,No,No,No,No,Negative
+2020-8-8 15:57,Female,25,Employee,sometimes,Maybe,no,Single,yes,as usual,well-off,Extrovert,Strong,sometimes,Maybe,No,sometimes,gaining weight,yes,No,Yes,No,normal,Yes,mid night,No,No,No,normal,Negative
+2020-8-8 16:03,Female,22,Student,yes,Maybe,no,,yes,as usual,middle class,Extrovert,medium,sometimes,Yes,sometimes,no,no change,yes,Yes,Yes,No,Yes,Maybe,mid night,No,Yes,No,No,Mild
+2020-8-8 16:32,Female,24,Student,no,Maybe,no,Single,no,Strong,middle class,Introvert,medium,sometimes,No,sometimes,sometimes,gaining weight,yes,Maybe,Yes,Maybe,Yes,Maybe,afternoon,No,No,No,No,Negative
+2020-8-8 16:39,Female,21,Student,no,Yes,no,Single,yes,as usual,well-off,Introvert,weak,sometimes,No,No,sometimes,no change,no,Maybe,No,No,normal,Yes,afternoon,Maybe,No,No,normal,Negative
+2020-8-8 17:26,Female,22,Student,no,Maybe,no,in a relationship,no,as usual,middle class,Introvert,medium,Yes,Maybe,sometimes,sometimes,gaining weight,yes,Yes,Yes,No,normal,No,afternoon,Yes,No,No,No,Negative
+2020-8-8 19:46,Female,23,Student,sometimes,Yes,no,Single,yes,Weak,middle class,Introvert,weak,,Yes,Yes,,gaining weight,yes,Yes,Yes,No,Yes,Yes,mid night,Maybe,No,No,normal,Mild
+2020-8-8 19:56,Female,23,Student,yes,Yes,no,in a relationship,yes,Strong,middle class,Extrovert,medium,sometimes,Yes,sometimes,sometimes,no change,yes,No,Yes,No,No,Yes,mid night,Yes,No,No,No,Negative
+2020-8-8 21:27,Female,27,Employee,no,No,no,married,no,Strong,middle class,Extrovert,medium,sometimes,Yes,sometimes,sometimes,no change,no,Yes,Yes,No,Yes,Maybe,mid night,Maybe,No,Yes,No,Severe
+2020-8-8 21:31,Male,26,Employee,no,Yes,no,married,yes,Strong,middle class,Extrovert,Strong,No,No,No,no,gaining weight,,Yes,No,No,No,Maybe,mid night,Maybe,No,No,Yes,Negative
+2020-8-8 22:58,Female,17,Student,yes,No,no,Single,yes,Strong,well-off,Extrovert,medium,sometimes,Yes,sometimes,sometimes,no change,no,Yes,Yes,Maybe,normal,Yes,afternoon,Yes,No,Yes,No,Severe
+2020-8-8 23:05,Female,22,Student,sometimes,No,no,in a relationship,no,as usual,middle class,Extrovert,Strong,sometimes,No,sometimes,sometimes,gaining weight,no,No,Yes,No,No,Yes,mid night,Maybe,No,No,No,Negative
+2020-8-8 23:33,Female,22,Student,no,No,no,Single,no,Strong,middle class,Introvert,medium,sometimes,No,No,no,gaining weight,yes,No,No,No,normal,Maybe,mid night,No,No,No,normal,Negative
+2020-8-9 14:14,Female,19,Student,no,Maybe,no,in a relationship,yes,Strong,middle class,Extrovert,Strong,sometimes,No,sometimes,no,losing weight,no,Maybe,Yes,No,No,Maybe,mid night,No,No,No,normal,Negative
+2020-8-9 14:16,Female,18,Student,yes,Maybe,no,in a complicated relationship,yes,Strong,middle class,Introvert,medium,sometimes,Yes,sometimes,sometimes,gaining weight,yes,Maybe,Yes,No,normal,Maybe,mid night,Maybe,Yes,Yes,No,Severe
+2020-8-9 14:16,Female,17,Student,no,No,no,in a relationship,no,Strong,middle class,,Strong,No,No,sometimes,sometimes,no change,yes,Maybe,No,No,normal,Yes,mid night,No,No,No,No,Negative
+2020-8-9 14:20,Female,20,Student,sometimes,Yes,no,Single,yes,as usual,middle class,Introvert,medium,sometimes,Yes,No,sometimes,no change,yes,Maybe,Yes,No,No,Yes,mid night,Maybe,No,Yes,No,Moderate
+2020-8-9 14:20,Female,18,Student,yes,No,no,Single,yes,Weak,well-off,Extrovert,medium,sometimes,Yes,sometimes,sometimes,no change,yes,Yes,Yes,No,Yes,Maybe,mid night,Yes,No,Yes,No,Severe
+2020-8-9 14:23,Female,22,Student,yes,Maybe,no,Single,yes,as usual,middle class,Introvert,medium,sometimes,Yes,sometimes,always,gaining weight,no,Maybe,Yes,Maybe,Yes,Maybe,mid night,Maybe,Yes,No,No,Moderate
+2020-8-9 14:24,Male,19,Student,sometimes,Maybe,no,Single,no,Weak,middle class,Extrovert,medium,sometimes,Yes,sometimes,sometimes,losing weight,no,Maybe,Yes,Maybe,normal,Maybe,mid night,Maybe,Yes,No,No,Moderate
+2020-8-9 14:26,Male,21,Student,no,Yes,no,Single,no,as usual,middle class,Introvert,medium,sometimes,Yes,No,sometimes,no change,yes,Yes,Yes,No,Yes,Maybe,mid night,Maybe,No,No,No,Mild
+2020-8-9 14:34,Male,17,Student,no,Maybe,no,Single,no,Strong,well-off,Introvert,medium,sometimes,No,No,no,gaining weight,yes,No,Yes,No,normal,Yes,Morning,No,No,No,No,Negative
+2020-8-9 15:19,Female,18,Student,yes,No,no,Single,no,Weak,well-off,Introvert,medium,sometimes,Yes,sometimes,sometimes,no change,no,No,Yes,Yes,normal,Maybe,mid night,Maybe,Yes,Yes,No,Severe
+2020-8-9 15:25,Male,17,Student,sometimes,Maybe,no,Single,no,Strong,middle class,Introvert,medium,Yes,No,No,sometimes,no change,yes,No,No,No,normal,Yes,afternoon,Maybe,No,No,normal,Negative
+2020-8-9 15:36,Female,14,Student,no,Yes,no,Single,yes,Strong,middle class,Extrovert,Strong,sometimes,No,No,no,losing weight,no,No,No,No,No,Yes,mid night,Maybe,No,No,normal,Negative
+2020-8-9 15:53,Female,18,Student,sometimes,No,no,Single,no,as usual,middle class,Extrovert,medium,sometimes,Maybe,sometimes,no,no change,yes,No,Yes,Maybe,No,Yes,mid night,No,No,No,Yes,Negative
+2020-8-9 16:06,Female,19,Student,no,Maybe,no,Single,no,as usual,middle class,Introvert,medium,always,Yes,Yes,always,no change,no,Yes,Yes,Yes,Yes,Maybe,mid night,Maybe,Yes,No,No,Moderate
+2020-8-9 17:03,Male,19,Student,sometimes,Maybe,no,Single,no,as usual,middle class,Extrovert,medium,Yes,No,sometimes,sometimes,gaining weight,yes,Yes,Yes,Yes,Yes,Yes,mid night,Maybe,No,No,No,Mild
+2020-8-9 17:03,Male,19,Student,sometimes,Maybe,no,Single,no,as usual,middle class,Extrovert,medium,Yes,No,sometimes,sometimes,gaining weight,yes,Yes,Yes,Yes,Yes,Yes,mid night,Maybe,No,No,No,Mild
+2020-8-9 21:41,Female,26,Employee,sometimes,No,no,Single,no,as usual,middle class,Extrovert,Strong,sometimes,Yes,No,sometimes,losing weight,yes,Yes,No,No,normal,Yes,mid night,No,No,No,Yes,Negative
+2020-8-9 22:58,Female,17,Student,no,Maybe,no,Single,yes,Strong,well-off,Introvert,medium,No,No,No,no,gaining weight,yes,No,No,No,Yes,Yes,mid night,Maybe,No,No,No,Negative
+2020-8-11 15:43,Male,22,Student,yes,Yes,no,Single,no,Weak,middle class,Introvert,weak,always,Yes,No,sometimes,no change,yes,Yes,Yes,Yes,Yes,Yes,afternoon,Yes,Yes,No,No,Moderate
+2020-8-11 15:47,Male,20,Student,no,No,no,Single,no,Strong,middle class,Extrovert,medium,No,No,No,no,gaining weight,no,No,No,No,No,Yes,mid night,No,No,No,normal,Negative
+2020-8-11 15:59,Male,21,Student,no,Yes,no,in a relationship,no,as usual,middle class,Introvert,medium,No,No,No,no,no change,yes,Yes,No,No,No,No,mid night,Yes,No,No,No,Negative
+2020-8-11 19:25,Male,19,Student,no,No,no,Single,no,Strong,middle class,Introvert,medium,No,No,sometimes,no,no change,yes,Yes,No,No,normal,Yes,afternoon,No,No,No,normal,Negative
+2020-8-11 21:53,Male,22,Student,no,Maybe,no,Single,no,Strong,middle class,Introvert,medium,No,No,No,no,no change,no,No,No,No,normal,Yes,afternoon,No,No,No,normal,Negative
+2020-8-11 22:04,Female,19,Student,no,Maybe,no,Single,yes,as usual,middle class,Extrovert,medium,sometimes,No,No,sometimes,no change,yes,No,Yes,No,No,Maybe,mid night,Yes,No,No,normal,Negative
+2020-8-12 0:33,Female,23,Student,sometimes,Maybe,no,in a relationship,no,Strong,middle class,Extrovert,medium,sometimes,Yes,No,sometimes,no change,yes,Yes,Yes,No,Yes,Yes,mid night,No,No,No,Yes,Negative
+2020-8-12 0:50,Male,21,Student,yes,No,no,in a relationship,yes,Strong,middle class,Introvert,weak,always,Maybe,sometimes,always,no change,yes,Yes,Yes,Maybe,Yes,No,mid night,Maybe,Yes,No,No,Mild
+2020-8-12 0:51,Female,20,Student,sometimes,Yes,no,Single,yes,as usual,middle class,Introvert,weak,sometimes,No,sometimes,sometimes,no change,yes,Maybe,No,Maybe,normal,Yes,afternoon,No,No,No,normal,Negative
+2020-8-12 0:55,Female,18,Student,no,Maybe,no,Single,yes,as usual,middle class,Introvert,weak,Yes,Yes,sometimes,always,no change,no,Yes,Yes,Yes,Yes,Maybe,mid night,Yes,Yes,No,No,Mild
+2020-8-12 0:56,Female,22,Student,no,No,no,in a relationship,no,Weak,middle class,Introvert,weak,sometimes,Yes,No,sometimes,gaining weight,yes,Yes,Yes,Maybe,Yes,No,mid night,Yes,No,No,No,Negative
+2020-8-12 1:01,Male,21,Student,yes,No,no,Single,yes,as usual,middle class,Introvert,weak,always,Maybe,No,no,gaining weight,no,Yes,Yes,No,Yes,Maybe,mid night,No,Yes,No,No,Mild
+2020-8-12 3:14,Female,21,Student,no,No,no,Single,no,Weak,middle class,Extrovert,medium,sometimes,Yes,Yes,always,no change,yes,Yes,No,Maybe,normal,Maybe,mid night,Maybe,Yes,No,No,Mild
+2020-8-12 3:22,Female,20,Student,sometimes,Yes,no,Single,yes,Weak,middle class,Introvert,medium,always,Yes,No,always,gaining weight,yes,Yes,,Yes,Yes,No,mid night,Yes,Yes,Yes,No,Severe
+2020-8-12 5:38,Female,21,Student,sometimes,No,no,Single,no,Strong,middle class,Introvert,weak,sometimes,No,sometimes,sometimes,no change,no,Maybe,No,Maybe,Yes,Maybe,mid night,Yes,Yes,No,No,Mild
+2020-8-12 10:40,Female,19,Student,no,Yes,no,Single,no,as usual,middle class,Introvert,medium,Yes,Yes,sometimes,sometimes,no change,no,Yes,Yes,No,normal,No,Morning,Yes,Yes,No,No,Mild
+2020-8-12 12:10,Female,22,Student,no,Yes,no,in a relationship,no,Strong,middle class,Introvert,medium,sometimes,Yes,sometimes,sometimes,gaining weight,yes,No,Yes,Maybe,No,Yes,mid night,No,No,No,No,Negative
+2020-8-12 12:15,Female,24,Student,no,No,no,Single,no,Strong,middle class,Extrovert,Strong,No,No,No,sometimes,no change,yes,No,No,No,Yes,Yes,mid night,Maybe,No,No,No,Negative
+2020-8-12 14:33,Male,24,Student,sometimes,Maybe,no,Single,no,Strong,middle class,Extrovert,Strong,No,No,No,sometimes,gaining weight,no,Maybe,No,No,normal,Yes,mid night,No,No,No,Yes,Negative
+2020-8-12 14:37,Male,23,Student,sometimes,No,no,Single,yes,as usual,middle class,Introvert,medium,No,No,No,sometimes,no change,yes,Maybe,Yes,Maybe,Yes,Yes,mid night,Maybe,Yes,No,normal,Mild
+2020-8-12 14:43,Male,22,Student,yes,No,no,Single,no,Strong,middle class,Introvert,medium,Yes,Yes,sometimes,sometimes,no change,yes,Yes,Yes,Maybe,Yes,Maybe,mid night,Maybe,No,Yes,normal,Moderate
+2020-8-12 14:56,Male,22,Student,sometimes,Maybe,no,Single,no,as usual,middle class,Introvert,medium,sometimes,No,No,sometimes,losing weight,yes,No,Yes,No,Yes,Yes,mid night,No,No,No,normal,Negative
+2020-8-12 14:56,Male,22,Student,sometimes,Maybe,no,Single,no,as usual,middle class,Introvert,medium,sometimes,No,No,sometimes,losing weight,yes,No,Yes,No,Yes,Yes,mid night,No,No,No,normal,Negative
+2020-8-12 14:57,Male,24,Student,yes,Maybe,no,Single,no,as usual,middle class,Introvert,weak,Yes,Maybe,No,always,no change,yes,Maybe,Yes,No,Yes,Maybe,mid night,Yes,Yes,Yes,normal,Severe
+2020-8-12 15:19,Female,23,Student,sometimes,Maybe,no,in a relationship,yes,Strong,middle class,Introvert,medium,sometimes,Yes,No,sometimes,gaining weight,yes,Maybe,No,No,normal,Maybe,mid night,No,No,No,normal,Negative
+2020-8-12 16:25,Female,23,Student,sometimes,Yes,no,in a relationship,yes,as usual,well-off,Extrovert,medium,sometimes,Maybe,sometimes,sometimes,no change,yes,Yes,Yes,No,Yes,No,afternoon,Yes,No,No,No,Negative
+2020-8-12 16:33,Female,25,Student,no,Maybe,no,in a relationship,yes,as usual,middle class,Introvert,weak,sometimes,No,sometimes,sometimes,gaining weight,yes,Maybe,Yes,No,Yes,Yes,mid night,Yes,Yes,No,No,Mild
+2020-8-12 17:06,Female,22,Student,yes,No,no,in a relationship,no,Strong,middle class,Introvert,medium,Yes,Yes,sometimes,sometimes,no change,yes,Yes,Yes,Yes,normal,Yes,mid night,Yes,Yes,Yes,No,Severe
+2020-8-12 18:25,Male,24,Student,no,Yes,no,Single,yes,Strong,poor,Introvert,Strong,No,No,No,always,no change,yes,No,Yes,No,No,Yes,mid night,Yes,No,No,Yes,Negative
+2020-8-12 20:01,Female,19,Student,no,No,no,Single,no,Strong,well-off,Introvert,weak,No,No,sometimes,sometimes,no change,yes,No,Yes,No,No,Maybe,mid night,No,No,No,normal,Negative
+2020-8-12 21:07,Male,22,Student,no,No,no,other,yes,Strong,middle class,Extrovert,medium,No,No,No,no,no change,no,No,No,No,No,Yes,afternoon,No,No,No,normal,Negative
+2020-8-12 23:18,Male,23,Student,no,Maybe,no,Single,yes,Strong,middle class,Introvert,medium,sometimes,Maybe,sometimes,sometimes,losing weight,yes,No,Yes,Maybe,Yes,Yes,Morning,Maybe,Yes,No,No,Mild
+2020-8-14 20:14,Female,25,Student,sometimes,Maybe,no,Single,yes,Weak,middle class,Introvert,weak,always,Yes,Yes,always,gaining weight,no,Yes,Yes,Yes,No,Yes,mid night,Yes,Yes,No,normal,Mild
+2020-8-14 20:27,Female,22,Student,no,Yes,no,Single,yes,as usual,middle class,Introvert,weak,Yes,No,No,sometimes,no change,yes,Yes,Yes,No,No,Maybe,mid night,Yes,Yes,No,No,Mild
+2020-8-14 20:28,Male,23,Student,no,Yes,no,Single,yes,Strong,well-off,Extrovert,medium,No,No,No,always,gaining weight,no,Yes,Yes,No,Yes,Yes,afternoon,Yes,No,No,Yes,Mild
+2020-8-14 21:57,Male,25,Student,sometimes,No,no,Single,no,as usual,middle class,Introvert,medium,sometimes,Yes,No,sometimes,gaining weight,yes,Yes,Yes,No,normal,No,afternoon,Yes,No,No,normal,Negative
+2020-8-14 22:53,Female,18,Student,no,Maybe,no,Single,yes,Strong,middle class,Introvert,medium,No,No,No,no,no change,yes,No,No,No,Yes,Maybe,mid night,No,No,No,Yes,Negative
+2020-8-15 13:55,Female,22,Student,no,Yes,no,Single,yes,Strong,middle class,Introvert,medium,sometimes,No,No,sometimes,gaining weight,yes,Yes,Yes,Yes,Yes,No,mid night,No,Yes,Yes,No,Severe
+2020-8-15 19:26,Female,23,Student,yes,Maybe,no,Single,yes,as usual,middle class,Introvert,weak,always,Yes,Every night,always,no change,no,Maybe,No,Yes,No,Maybe,mid night,Yes,Yes,Yes,No,Severe
+2020-8-15 19:27,Male,24,Student,no,No,no,Single,no,Strong,middle class,Introvert,weak,always,No,sometimes,always,no change,no,Yes,Yes,Yes,No,Maybe,mid night,Yes,Yes,No,No,Moderate
+2020-8-15 19:59,Female,23,Student,no,No,no,in a relationship,no,Strong,middle class,Introvert,medium,sometimes,No,No,sometimes,gaining weight,no,Yes,No,Maybe,No,Maybe,afternoon,No,No,No,normal,Negative
+2020-8-15 20:00,Female,23,Student,no,No,no,in a relationship,no,Strong,middle class,Introvert,medium,sometimes,No,No,sometimes,gaining weight,no,Yes,No,Maybe,No,Maybe,afternoon,No,No,No,No,Negative
+2020-8-15 20:10,Male,23,Student,sometimes,Maybe,no,in a complicated relationship,yes,as usual,middle class,Introvert,medium,sometimes,No,No,always,gaining weight,yes,Yes,Yes,No,No,Maybe,afternoon,Yes,No,No,No,Negative
+2020-8-15 22:29,Female,23,Student,sometimes,Maybe,no,Single,yes,as usual,middle class,Extrovert,Strong,sometimes,Maybe,sometimes,sometimes,no change,yes,Yes,Yes,No,normal,Yes,afternoon,Maybe,No,Yes,No,Negative
+2020-8-15 23:46,Female,22,Student,sometimes,Maybe,no,in a relationship,no,as usual,middle class,Extrovert,medium,sometimes,Yes,sometimes,sometimes,gaining weight,no,Maybe,Yes,Yes,normal,Yes,mid night,No,Yes,No,normal,Mild
+2020-8-16 1:13,Male,24,Student,no,No,yes,in a relationship,yes,Strong,middle class,Extrovert,Strong,No,Yes,No,no,gaining weight,yes,No,No,No,normal,Yes,afternoon,No,No,No,Yes,Negative
+2020-8-16 18:54,Male,20,Student,no,No,no,in a relationship,no,Strong,poor,Extrovert,medium,sometimes,No,No,no,gaining weight,yes,No,Yes,No,normal,Yes,afternoon,Yes,No,No,Yes,Negative
+2020-8-16 23:52,Female,22,Student,no,Maybe,no,in a relationship,yes,Strong,middle class,Introvert,weak,No,Maybe,No,no,gaining weight,yes,Maybe,Yes,No,No,Yes,mid night,Maybe,No,No,normal,Negative
+2020-8-17 0:03,Female,22,Student,sometimes,Yes,no,Single,yes,as usual,well-off,Introvert,weak,Yes,No,sometimes,sometimes,gaining weight,no,Yes,Yes,No,Yes,Maybe,mid night,Yes,No,No,No,Negative
+2020-8-17 0:03,Female,22,Student,sometimes,Maybe,no,Single,yes,as usual,middle class,Introvert,weak,sometimes,No,sometimes,no,gaining weight,yes,Yes,No,Maybe,Yes,Yes,mid night,Yes,No,No,No,Negative
+2020-8-17 0:40,Female,22,Student,yes,No,no,married,yes,as usual,middle class,Introvert,medium,Yes,Yes,sometimes,sometimes,gaining weight,no,Yes,Yes,Yes,normal,No,mid night,Maybe,Yes,Yes,No,Severe
+2020-8-17 1:00,Female,24,Student,no,No,no,in a relationship,no,Strong,middle class,Extrovert,medium,No,No,No,sometimes,gaining weight,no,Yes,Yes,No,normal,Maybe,afternoon,Maybe,No,No,normal,Negative
+2020-8-17 1:05,Male,24,Employee,yes,Maybe,no,Single,yes,as usual,middle class,Introvert,medium,No,No,No,sometimes,no change,yes,Yes,Yes,Maybe,Yes,Maybe,mid night,Maybe,Yes,Yes,Yes,Severe
+2020-8-17 1:06,Male,21,Student,yes,Yes,no,Single,yes,as usual,middle class,Introvert,weak,sometimes,Yes,sometimes,sometimes,gaining weight,no,Maybe,No,Yes,normal,Yes,mid night,Maybe,Yes,Yes,No,Severe
+2020-8-17 2:51,Female,26,Student,sometimes,Maybe,no,Single,yes,Strong,middle class,Extrovert,medium,sometimes,No,No,sometimes,no change,yes,Yes,Yes,Yes,No,Yes,afternoon,No,No,No,No,Negative
+2020-8-17 9:05,Female,27,Student,sometimes,No,no,married,no,Strong,middle class,Introvert,medium,sometimes,Yes,sometimes,no,losing weight,no,Yes,Yes,No,Yes,Yes,mid night,Maybe,No,No,No,Negative
+2020-8-17 9:59,Female,18,Student,yes,Maybe,no,Single,yes,as usual,middle class,Extrovert,medium,sometimes,No,No,sometimes,losing weight,yes,No,Yes,No,normal,Yes,mid night,Maybe,No,No,normal,Negative
+2020-8-17 10:18,Male,24,Student,sometimes,No,no,in a relationship,no,as usual,middle class,Extrovert,medium,No,No,sometimes,no,no change,yes,Maybe,Yes,No,normal,Maybe,afternoon,No,No,No,Yes,Negative
+2020-8-17 13:44,Male,25,Student,yes,No,no,in a relationship,no,Weak,middle class,Extrovert,Strong,No,No,No,sometimes,no change,no,No,Yes,No,Yes,Yes,mid night,No,No,No,normal,Negative
+2020-8-17 23:29,Female,24,Student,yes,Yes,no,Single,yes,Strong,,Extrovert,Strong,No,No,sometimes,sometimes,gaining weight,yes,No,No,No,No,Yes,mid night,Yes,No,Yes,normal,Moderate
+2020-8-18 0:02,Female,26,Employee,sometimes,No,no,married,yes,Strong,middle class,Introvert,medium,No,No,No,sometimes,losing weight,no,No,No,No,normal,Yes,mid night,No,No,No,Yes,Negative
+2020-8-27 13:49,Female,23,Student,sometimes,Maybe,no,in a relationship,yes,as usual,middle class,Introvert,medium,Yes,Yes,sometimes,sometimes,gaining weight,no,Yes,Yes,Yes,Yes,No,mid night,Yes,Yes,Yes,No,Severe
+2020-9-7 22:48,Female,23,Student,yes,No,no,in a complicated relationship,yes,as usual,well-off,Extrovert,medium,sometimes,Yes,sometimes,sometimes,no change,no,No,Yes,Maybe,Yes,Yes,mid night,No,No,Yes,normal,Moderate
+2020-9-8 15:32,Male,23,Student,sometimes,No,no,in a relationship,no,Strong,middle class,Introvert,medium,No,No,No,no,gaining weight,yes,No,Yes,No,normal,Yes,mid night,Maybe,No,No,Yes,Mild
+2020-9-8 16:01,Female,25,Employee,no,Yes,no,Single,yes,as usual,middle class,Extrovert,medium,sometimes,Yes,sometimes,always,no change,no,Yes,Yes,No,normal,Maybe,mid night,Maybe,No,No,Yes,Negative
+2020-9-8 16:55,Male,26,Employee,sometimes,Yes,no,in a relationship,no,Strong,middle class,Introvert,medium,sometimes,Maybe,Yes,sometimes,no change,yes,Yes,Yes,No,Yes,Yes,mid night,Yes,No,No,normal,Negative
+2020-9-8 17:55,Female,27,Unemployee,yes,Yes,no,married,yes,as usual,middle class,Extrovert,medium,Yes,Yes,Yes,always,gaining weight,yes,Yes,Yes,Yes,No,No,mid night,Yes,Yes,Yes,normal,Severe
+2020-9-8 18:22,Female,20,Student,sometimes,No,no,Single,no,Strong,middle class,Introvert,weak,sometimes,Maybe,sometimes,sometimes,no change,no,Maybe,No,Maybe,Yes,Yes,mid night,Maybe,Yes,No,No,Mild
+2020-9-8 18:23,Female,22,Student,no,Yes,no,in a relationship,yes,as usual,well-off,Introvert,weak,No,Yes,Yes,sometimes,no change,no,Yes,Yes,No,normal,Yes,mid night,Yes,No,Yes,Yes,Moderate
+2020-9-8 18:23,Female,19,Student,no,Yes,no,Single,yes,as usual,well-off,Introvert,medium,No,No,No,sometimes,losing weight,no,Yes,Yes,No,No,Yes,mid night,No,Yes,No,normal,Mild
+2020-9-8 18:23,Female,23,Student,yes,Yes,no,in a relationship,no,Weak,well-off,Introvert,medium,sometimes,Yes,sometimes,sometimes,gaining weight,yes,Maybe,Yes,Yes,normal,Maybe,Morning,Maybe,Yes,Yes,No,Severe
+2020-9-8 18:23,Female,22,Student,yes,Yes,no,in a complicated relationship,yes,Weak,well-off,Introvert,weak,Yes,Yes,Yes,sometimes,losing weight,yes,Yes,Yes,Yes,No,No,mid night,Maybe,Yes,No,No,Moderate
+2020-9-8 18:32,Female,21,Student,sometimes,Yes,no,Single,yes,Strong,well-off,Introvert,medium,sometimes,Yes,sometimes,sometimes,gaining weight,no,No,Yes,No,Yes,Maybe,Morning,No,No,No,No,Negative
+2020-9-8 18:46,Female,23,Student,sometimes,Maybe,no,Single,yes,as usual,middle class,Extrovert,medium,sometimes,Maybe,sometimes,sometimes,gaining weight,yes,Maybe,Yes,No,normal,Maybe,afternoon,Maybe,No,No,No,Negative
+2020-9-8 19:48,Female,24,Student,no,Yes,no,in a relationship,no,as usual,middle class,Extrovert,medium,Yes,No,No,sometimes,no change,yes,Yes,Yes,Maybe,Yes,No,afternoon,Maybe,No,No,No,Negative
+2020-9-8 19:49,Female,20,Student,sometimes,Maybe,no,Single,yes,as usual,well-off,Introvert,medium,sometimes,Yes,sometimes,sometimes,losing weight,no,Maybe,Yes,No,No,No,afternoon,Maybe,Yes,No,normal,Mild
+2020-9-8 19:54,Female,20,Student,sometimes,Maybe,no,Single,no,as usual,middle class,Introvert,weak,sometimes,Yes,Yes,sometimes,gaining weight,no,Yes,Yes,Yes,No,Maybe,mid night,Yes,Yes,Yes,normal,Severe
+2020-9-8 21:33,Male,20,Student,no,Yes,no,in a relationship,yes,Strong,well-off,Extrovert,medium,No,No,No,sometimes,gaining weight,yes,Yes,Yes,No,Yes,Maybe,Morning,No,No,No,No,Negative
+2020-9-8 21:43,Female,20,Student,yes,Yes,no,Single,yes,as usual,poor,Introvert,weak,sometimes,Yes,Yes,sometimes,no change,yes,Yes,Yes,No,Yes,No,mid night,Maybe,Yes,No,No,Moderate
+2020-9-8 22:44,Female,23,Student,no,Yes,no,married,yes,Strong,well-off,Extrovert,Strong,No,No,No,no,gaining weight,yes,No,Yes,No,Yes,Yes,afternoon,Yes,No,No,No,Negative
+2020-9-8 23:19,Male,21,Student,sometimes,Yes,no,Single,yes,Strong,middle class,Introvert,medium,Yes,No,Yes,sometimes,losing weight,no,Yes,Yes,Yes,No,No,mid night,Yes,No,No,No,Negative
+2020-9-9 6:50,Female,22,Student,no,No,no,in a relationship,yes,Strong,well-off,Introvert,weak,sometimes,Yes,No,no,gaining weight,yes,No,Yes,No,No,Yes,mid night,No,No,No,Yes,Negative
+2020-9-9 11:39,Male,23,Student,yes,Yes,no,Single,no,Strong,middle class,Extrovert,medium,sometimes,No,sometimes,sometimes,gaining weight,no,Yes,Yes,Yes,Yes,Yes,mid night,Yes,Yes,No,Yes,Moderate
+2020-9-9 12:25,Female,28,Unemployee,yes,Maybe,no,married,no,Strong,middle class,Extrovert,medium,Yes,Yes,Yes,sometimes,no change,yes,Yes,Yes,Yes,Yes,Maybe,mid night,Yes,Yes,No,No,Moderate
+2020-9-10 9:14,Male,20,Student,sometimes,No,no,Single,no,Strong,middle class,Introvert,weak,sometimes,Maybe,No,no,no change,,No,Yes,No,normal,Maybe,mid night,No,No,No,normal,Negative
+2020-9-30 18:38,Female,20,Student,no,Maybe,no,Single,yes,as usual,middle class,Introvert,medium,sometimes,No,No,sometimes,gaining weight,yes,No,Yes,Maybe,normal,Yes,mid night,Yes,No,No,No,Negative
+2020-10-5 20:34,Female,15,Student,no,No,no,Single,no,Strong,middle class,Extrovert,Strong,sometimes,No,No,no,no change,yes,Yes,No,No,normal,Yes,Morning,Maybe,No,No,normal,Negative
+2020-10-5 20:44,Female,23,Student,yes,Maybe,no,in a relationship,yes,as usual,middle class,Introvert,medium,sometimes,Yes,sometimes,sometimes,gaining weight,no,Maybe,Yes,No,Yes,No,mid night,Maybe,No,No,normal,Negative
+2020-10-5 21:15,Male,22,Student,no,Yes,no,in a relationship,no,as usual,middle class,Extrovert,medium,No,No,No,no,no change,yes,No,No,No,No,Maybe,mid night,No,No,No,Yes,Negative
+2020-10-5 21:18,Female,17,Student,no,Maybe,no,Single,no,Strong,middle class,Extrovert,Strong,No,Yes,No,no,losing weight,no,No,No,No,Yes,Yes,afternoon,No,No,No,Yes,Negative
+2020-10-5 21:20,Male,30,Employee,sometimes,Maybe,no,married,no,as usual,middle class,Extrovert,medium,sometimes,Maybe,sometimes,no,no change,yes,Maybe,Yes,No,normal,Maybe,mid night,No,No,No,normal,Negative
