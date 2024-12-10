@@ -1,1 +1,3 @@
 # Depression-Level-Prediction
+
+Psychologists and academicians collaborated to develop a survey to gather data for this investigation. The experiment was conducted through a Google survey form. This method captures ambiguity and imprecision in depression evaluation by merging linguistic aspects with psychological features. To accurately predict depression severity, 15 features were selected from 30 using Pearson correlation and R-squared approaches. Five membership functions (poor, mediocre, average, decent, and good) and fuzzy rules were also used. Our suggested architecture accurately classifies depression levels based on human actions and sensations with 94% accuracy, utilizing a simpler rules dictionary compared to earlier pre-trained or hybrid models.
